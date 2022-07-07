@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1204_T48_505355">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1204</ph> - ADMINISTRATIVE MATTERS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301; 41 U.S.C. 418b; (FAR) 48 CFR 1.3. 
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           70 FR 6507, Feb. 7, 2005, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1204_1_T48_5053551.dita#Subpart_1204_1_T48_5053551">Subpart 1204.1 - Contract Execution</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1204_103_T48_505355111.dita#Section_1204_103_T48_505355111">1204.103 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1204_8_T48_5053552.dita#Subpart_1204_8_T48_5053552">Subpart 1204.8 - Government Contract Files</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1204_804_5_T48_505355211.dita#Section_1204_804_5_T48_505355211">1204.804-5 Procedures for closing out contract files.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1204_804_570_T48_505355212.dita#Section_1204_804_570_T48_505355212">1204.804-570 Supporting closeout documents.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
