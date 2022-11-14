@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1253_T48_5054237">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1253</ph> - FORMS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301; 41 U.S.C. 1121(c)(3); 41 U.S.C. 1702; and 48 CFR 1.301 through 1.304.
+
+
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           87 FR 61159, Oct. 7, 2022, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1253_2_T48_50542371.dita#Subpart_1253_2_T48_50542371">Subpart 1253.2 - Prescription of Forms</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1253_204_70_T48_5054237111.dita#Section_1253_204_70_T48_5054237111">1253.204-70 Administrative matters - agency specified forms.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1253_227_T48_5054237112.dita#Section_1253_227_T48_5054237112">1253.227 Patents, data, and copyrights.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1253_227_3_T48_5054237113.dita#Section_1253_227_3_T48_5054237113">1253.227-3 Patent rights under Government contracts.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1253_3_T48_50542372.dita#Subpart_1253_3_T48_50542372">Subpart 1253.3 - Forms Used in Acquisitions</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1253_300_70_T48_5054237211.dita#Section_1253_300_70_T48_5054237211">1253.300-70 DOT agency forms.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

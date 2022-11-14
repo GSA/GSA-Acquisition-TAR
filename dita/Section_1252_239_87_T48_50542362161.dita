@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1252_239_87_T48_50542362161">
+      <title class="- topic/title ">
+         <ph props="autonumber">1252.239-87</ph> Protection of Information at Rest.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 1239.7204(l), insert the clause as follows:
+</p>
+                                 <p xtrc="HD1">Protection of Information at Rest and in Transit (NOV 2022)
+</p>
+                                 <p xtrc="P">The Contractor shall provide security mechanisms for handling data at rest and in transit in accordance with FIPS 140-2 ___ [<i>Contracting officer insert encryption standard, based on NIST FIPS 199 categorization</i>].</p>
+                              <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1252_232_70_T48_50542362135">
+      <title class="- topic/title ">
+         <ph props="autonumber">1252.232-70</ph> Electronic Submission of Payment Requests.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 1232.7005, insert the following clause:
+</p>
+                                 <p xtrc="HD1">Electronic Submission of Payment Requests (NOV 2022)
+</p>
+                                 <p outputclass="List1">(a) <i>Definitions.</i> As used in this clause - 
+</p>
+                                 <p outputclass="List2">(1) <i>Contract financing payment</i> has the meaning given in FAR 32.001.
+</p>
+                                 <p outputclass="List2">(2) <i>Payment request</i> means a bill, voucher, invoice, or request for contract financing payment or invoice payment with associated supporting documentation. The payment request must comply with the requirements identified in FAR 32.905(b), “Content of Invoices,” this clause, and the applicable Payment clause included in this contract.
+</p>
+                                 <p outputclass="List2">(3) <i>Electronic form</i> means an automated system transmitting information electronically according to the accepted electronic data transmission methods and formats identified in paragraph (c) of this clause. Facsimile, email, and scanned documents are not acceptable electronic forms for submission of payment requests.
+</p>
+                                 <p outputclass="List2">(4) <i>Invoice payment</i> has the meaning given in FAR 32.001.
+</p>
+                                 <p outputclass="List1">(b) <i>Electronic payment requests.</i> Except as provided in paragraph (e) of this clause, the contractor shall submit payment requests in electronic form. Purchases paid with a Governmentwide commercial purchase card are considered to be an electronic transaction for purposes of this rule, and therefore no additional electronic invoice submission is required.
+</p>
+                                 <p outputclass="List1">(c) <i>Processing system.</i> The Department of Transportation utilizes the DELPHI system for processing invoices. The DELPHI module for submitting invoices is called <i>iSupplier.</i> Access to DELPHI is granted with electronic authentication of credentials (name &amp; valid email address) utilizing the GSA credentialing platform <i>login.gov.</i> Vendors submitting invoices are required to submit invoices via <i>iSupplier</i> (DELPHI) and authenticated via <i>www.login.gov.</i>
+                                 </p>
+                                 <p outputclass="List1">(d) <i>Invoice requirements.</i> To receive payment and in accordance with the Prompt Payment Act, all invoices submitted as attachments in <i>iSupplier</i> (DELPHI) shall contain the following:
+</p>
+                                 <p outputclass="List2">(1) Invoice number and invoice date.
+</p>
+                                 <p outputclass="List2">(2) Period of performance covered by invoice.
+</p>
+                                 <p outputclass="List2">(3) Contract number and title.
+</p>
+                                 <p outputclass="List2">(4) Task/Delivery Order number and title (if applicable).
+</p>
+                                 <p outputclass="List2">(5) Amount billed (by CLIN), current and cumulative.
+</p>
+                                 <p outputclass="List2">(6) Total ($) of billing.
+</p>
+                                 <p outputclass="List2">(7) Cumulative total billed for all contract work to date.
+</p>
+                                 <p outputclass="List2">(8) Name, title, phone number, and mailing address of person to be contacted in the event of a defective invoice.
+</p>
+                                 <p outputclass="List2">(9) Travel. If the contract includes allowances for travel, all invoices which include charges pertaining to travel expenses will catalog a breakdown of reimbursable expenses with the appropriate receipts to substantiate the travel expenses.
+</p>
+                                 <p outputclass="List1">(e) <i>Payment system registration.</i> All persons accessing the <i>iSupplier</i> (DELPHI) will be required to have their own unique user ID and password and be credentialed through <i>login.gov.</i>
+                                 </p>
+                                 <p outputclass="List2">(1) <i>Electronic authentication. See www.login.gov</i> for instructions.
+</p>
+                                 <p outputclass="List2">(2) To create a <i>www.login.gov</i> account, the user will need a valid email address and a working phone number. The user will create a password and then <i>www.login.gov</i> will reply with an email confirming the email address.
+</p>
+                                 <p outputclass="List2">(3) <i>iSupplier</i> (DELPHI) registration instructions: New users should navigate to: <i>http://einvoice.esc.gov</i> to establish an account. Users are required to log in to <i>iSupplier</i> (DELPHI) every 45 days to keep it active.
+</p>
+                                 <p outputclass="List2">(4) <i>Training on DELPHI.</i> To facilitate use of DELPHI, comprehensive user information is available at <i>http://einvoice.esc.gov.</i>
+                                 </p>
+                                 <p outputclass="List2">(5) <i>Account Management.</i> Vendors are responsible to contact their assigned COR when their firm's points of contacts will no longer be submitting invoices, so they can be removed from the system.
+</p>
+                                 <p outputclass="List1">(f) <i>Waivers.</i> For contractors/vendors who are unable to utilize DOT's DELPHI system, waivers may be considered by DOT on a case-by-case basis. Vendors should contact their Contracting Officer's Representative (COR) for procedures.
+</p>
+                                 <p outputclass="List1">(g) <i>Exceptions and alternate payment procedures.</i> If, based on one of the circumstances set forth in 1232.7002(a) or (b), and the contracting officer directs that payment requests be made by mail, the contractor shall submit payment requests by mail through the United States Postal Service to the designated agency office. If alternate payment procedures are authorized, the Contractor shall include a copy of the Contracting Officer's written authorization with each payment request. If DELPHI is succeeded by later technology, the Contracting Officer will supply the Contractor with the latest applicable electronic invoicing instructions.</p>
+                              <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1239_7102_T48_5054030413">
+      <title class="- topic/title ">
+         <ph props="autonumber">1239.7102</ph> Policy.</title>
+      <conbody>
+         <p xtrc="P">DOT must ensure that data protection is provided for information and information systems in accordance with current policies, procedures, and statutes, including:
+</p>
+         <p outputclass="List1">(a) The Clinger-Cohen Act.
+</p>
+         <p outputclass="List1">(b) The E-Government Act.
+</p>
+         <p outputclass="List1">(c) Federal Information Systems Modernization Act.
+</p>
+         <p outputclass="List1">(d) Federal Information Processing Standards.
+</p>
+         <p outputclass="List1">(e) OMB Circular A-130, Managing Information as a Strategic Resource.
+</p>
+         <p outputclass="List1">(f) 49 CFR part 10, Maintenance of and Access to Records Pertaining to Individuals.
+</p>
+         <p outputclass="List1">(g) DOT Order 1351.18, Privacy Risk Management Policy.
+</p>
+         <p outputclass="List1">(h) DOT Order 1351.19, PII Breach Notification Controls.
+</p>
+         <p outputclass="List1">(i) DOT Order 1351.28, Records Management.
+</p>
+         <p outputclass="List1">(j) DOT Order 1351.37, Departmental Cyber Security Policy.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

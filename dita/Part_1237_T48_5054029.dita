@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1237_T48_5054029">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1237</ph> - SERVICE CONTRACTING</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301; 41 U.S.C. 1121(c)(3); 41 U.S.C. 1702; and 48 CFR 1.301 through 1.304.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           87 FR 61159, Oct. 7, 2022, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1237_1_T48_50540291.dita#Subpart_1237_1_T48_50540291">Subpart 1237.1 - Service Contracts - General</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1237_110_70_T48_5054029111.dita#Section_1237_110_70_T48_5054029111">1237.110-70 Contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1237_70_T48_50540292.dita#Subpart_1237_70_T48_50540292">Subpart 1237.70 - Procedures for Acquiring Training Services</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1237_7000_T48_5054029211.dita#Section_1237_7000_T48_5054029211">1237.7000 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1237_7001_T48_5054029212.dita#Section_1237_7001_T48_5054029212">1237.7001 Certification of data.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1237_7002_T48_5054029213.dita#Section_1237_7002_T48_5054029213">1237.7002 Applicability.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1237_7003_T48_5054029214.dita#Section_1237_7003_T48_5054029214">1237.7003 Solicitation provision and contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

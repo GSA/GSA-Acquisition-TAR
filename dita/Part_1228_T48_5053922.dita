@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1228_T48_5053922">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1228</ph> - BONDS AND INSURANCE</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301; 41 U.S.C. 1121(c)(3); 41 U.S.C. 1702; and 48 CFR 1.301 through 1.304.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           87 FR 61159, Oct. 7, 2022, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1228_1_T48_50539221.dita#Subpart_1228_1_T48_50539221">Subpart 1228.1 - Bonds and Other Financial Protections</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1228_106_T48_5053922111.dita#Section_1228_106_T48_5053922111">1228.106 Administration.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1228_106_470_T48_5053922112.dita#Section_1228_106_470_T48_5053922112">1228.106-470 Contract clause-notification of payment bond protection.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1228_106_6_T48_5053922113.dita#Section_1228_106_6_T48_5053922113">1228.106-6 Furnishing information.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1228_106_70_T48_5053922114.dita#Section_1228_106_70_T48_5053922114">1228.106-70 Execution and administration of bonds.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1228_106_71_T48_5053922115.dita#Section_1228_106_71_T48_5053922115">1228.106-71 Performance and payment bonds for certain contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1228_106_7100_T48_5053922116.dita#Section_1228_106_7100_T48_5053922116">1228.106-7100 Waiver.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1228_106_7101_T48_5053922117.dita#Section_1228_106_7101_T48_5053922117">1228.106-7101 Exception.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1228_3_T48_50539222.dita#Subpart_1228_3_T48_50539222">Subpart 1228.3 - Insurance</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1228_306_T48_5053922211.dita#Section_1228_306_T48_5053922211">1228.306 Insurance under fixed-price contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1228_306_70_T48_5053922212.dita#Section_1228_306_70_T48_5053922212">1228.306-70 Contracts for lease of aircraft.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1228_307_1_T48_5053922213.dita#Section_1228_307_1_T48_5053922213">1228.307-1 Group insurance plans.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1228_311_1_T48_5053922214.dita#Section_1228_311_1_T48_5053922214">1228.311-1 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

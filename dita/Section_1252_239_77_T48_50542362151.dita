@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1252_239_77_T48_50542362151">
+      <title class="- topic/title ">
+         <ph props="autonumber">1252.239-77</ph> Data Jurisdiction.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 1239.7204(b), insert a clause substantially as follows:
+</p>
+                                 <p xtrc="HD1">Data Jurisdiction (NOV 2022)
+</p>
+                                 <p xtrc="P">The Contractor shall identify all data centers in which the data at rest or data backup will reside, including primary and replicated storage. The Contractor shall ensure that all data centers not physically located on DOT premises reside within the United States, the District of Columbia, and all territories and possessions of the United States, unless otherwise authorized by the DOT CIO. The Contractor shall provide a Wide Area Network (WAN), with a minimum of ___ [<i>Contracting Officer fill-in: Insert specific number</i>] data center facilities at ___ [<i>Contracting Officer fill-in number]</i> different geographic locations with at least ___ [<i>Contracting Officer fill-in number</i>] internet Exchange Point (IXP) for each price offering. The Contractor shall provide internet bandwidth at the minimum of ___ [<i>Contracting Officer fill-in applicable gigabytes</i>] GB.</p>
+                              <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

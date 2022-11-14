@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1239_7301_T48_5054030612">
+      <title class="- topic/title ">
+         <ph props="autonumber">1239.7301</ph> Definitions.</title>
+      <conbody>
+         <p xtrc="P">As used in this subpart - 
+</p>
+         <p xtrc="P">
+                                 <i>Application</i> means the software that resides above system software and includes applications such as database programs, word processors and spreadsheets. Application software may be bundled with system software or published alone.
+</p>
+         <p xtrc="P">
+                                 <i>Modernization</i> means the conversion, rewriting or porting of a legacy system to a modern computer programming language, software libraries, protocols, or hardware platform.
+</p>
+         <p xtrc="P">
+                                 <i>Refresh</i> means the periodic replacement of equipment to ensure continuing reliability of equipment and/or improved speed and capacity.
+</p>
+         <p xtrc="P">
+                                 <i>System software</i> means a platform composed of operating system programs and services, including settings and preferences, file libraries and functions used for system applications. System software also includes device drivers that run basic computer hardware and peripherals.
+</p>
+         <p xtrc="P">
+                                 <i>Upgrade</i> means an updated version of existing hardware, software or firmware. The purpose of an upgrade is improved and updated product features, including performance, product life, usefulness and convenience.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

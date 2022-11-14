@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1215_T48_5053714">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1215</ph> - CONTRACTING BY NEGOTIATION</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301; 41 U.S.C. 1121(c)(3); 41 U.S.C. 1702; and 48 CFR 1.301 through 1.304.
+
+
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           87 FR 61159, Oct. 7, 2022, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1215_4_T48_50537141.dita#Subpart_1215_4_T48_50537141">Subpart 1215.4 - Contract Pricing</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1215_404_T48_5053714111.dita#Section_1215_404_T48_5053714111">1215.404 Proposal analysis.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1215_404_470_T48_5053714112.dita#Section_1215_404_470_T48_5053714112">1215.404-470 Payment of profit or fee.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1215_6_T48_50537142.dita#Subpart_1215_6_T48_50537142">Subpart 1215.6 - Unsolicited Proposals</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1215_603_T48_5053714211.dita#Section_1215_603_T48_5053714211">1215.603 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1215_604_T48_5053714212.dita#Section_1215_604_T48_5053714212">1215.604 Agency points of contact.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1215_606_T48_5053714213.dita#Section_1215_606_T48_5053714213">1215.606 Agency procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1239_000_T48_5054030011">
+      <title class="- topic/title ">
+         <ph props="autonumber">1239.000</ph> Scope of part.</title>
+      <conbody>
+         <p xtrc="P">In addition to FAR 39.000, this part prescribes acquisition policies and procedures for use in acquiring information technology and information technology-related supplies, services and systems, including information security, to include - 
+</p>
+         <p outputclass="List1">(a) Software management and development;
+</p>
+         <p outputclass="List1">(b) Section 508 standards and compliance for contracts;
+</p>
+         <p outputclass="List1">(c) Information security and incident response reporting;
+</p>
+         <p outputclass="List1">(d) Protection of data about individuals;
+</p>
+         <p outputclass="List1">(e) Cloud computing;
+</p>
+         <p outputclass="List1">(f) Technology modernization and upgrade/refreshment; and
+</p>
+         <p outputclass="List1">(g) Record management.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

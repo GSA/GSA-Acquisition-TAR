@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1239_7401_T48_5054030712">
+      <title class="- topic/title ">
+         <ph props="autonumber">1239.7401</ph> Definition.</title>
+      <conbody>
+         <p xtrc="P">As used in this subpart - 
+</p>
+         <p xtrc="P">
+                                 <i>Federal record,</i> as defined in 44 U.S.C. 3301, means all recorded information, regardless of form or characteristics, made or received by a Federal agency under Federal law or in connection with the transaction of public business and preserved or appropriate for preservation by that agency or its legitimate successor as evidence of the organization, functions, policies, decisions, procedures, operations, or other activities of the United States Government or because of the informational value of data in them. The term Federal record:
+</p>
+         <p outputclass="List1">
+				</p>
+         <p outputclass="List2">(1) 
+			Includes all DOT records.
+</p>
+         <p outputclass="List1">(2) Does not include personal materials.
+</p>
+         <p outputclass="List1">(3) Applies to records created, received, or maintained by contractors pursuant to a DOT contract.
+</p>
+         <p outputclass="List1">(4) May include deliverables and documentation associated with deliverables.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

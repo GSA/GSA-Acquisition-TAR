@@ -8,12 +8,12 @@
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
-                           5 U.S.C. 301; 41 U.S.C. 418b; (FAR) 48 CFR 1.3. 
+                           5 U.S.C. 301; 41 U.S.C. 1121(c)(3); 41 U.S.C. 1702; and 48 CFR 1.301 through 1.304.
 
                         </p>
          <p>
             <ph class="- topic/ph ">Source: </ph>
-                           70 FR 6507, Feb. 7, 2005, unless otherwise noted.
+                           87 FR 61159, Oct. 7, 2022, unless otherwise noted.
 
 
 
@@ -22,27 +22,19 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1211_1_T48_50536101.dita#Subpart_1211_1_T48_50536101">Subpart 1211.1 - Selecting and Developing Requirements Documents</xref>
+                        href="Subpart_1211_2_T48_50536101.dita#Subpart_1211_2_T48_50536101">Subpart 1211.2 - Using and Maintaining Requirements Documents</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1211_101_T48_5053610111.dita#Section_1211_101_T48_5053610111">1211.101 Order of precedence for requirements documents.</xref>
+                              href="Section_1211_204_T48_5053610111.dita#Section_1211_204_T48_5053610111">1211.204 Solicitation provisions and contract clauses.</xref>
                      </p>
                   </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_1211_2_T48_50536102.dita#Subpart_1211_2_T48_50536102">Subpart 1211.2 - Using and Maintaining Requirements Documents</xref>
-               </p>
-               <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1211_204_70_T48_5053610211.dita#Section_1211_204_70_T48_5053610211">1211.204-70 Solicitation provisions and contract clauses.</xref>
+                              href="Section_1211_204_70_T48_5053610112.dita#Section_1211_204_70_T48_5053610112">1211.204-70 Contract clauses.</xref>
                      </p>
                   </li>
                </ul>

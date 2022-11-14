@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1204_502_T48_505355211">
+      <title class="- topic/title ">
+         <ph props="autonumber">1204.502</ph> Policy.</title>
+      <conbody>
+         <p outputclass="List1">(c) DOT's preferred policy is to use electronic signatures, records and communication methods in lieu of paper transactions whenever practicable. Before using electronic commerce, the HOA and OA shall ensure that the OA systems are capable of ensuring authentication and confidentiality commensurate with the risk of unauthorized access to or modification of the information.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

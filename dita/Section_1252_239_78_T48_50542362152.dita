@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1252_239_78_T48_50542362152">
+      <title class="- topic/title ">
+         <ph props="autonumber">1252.239-78</ph> Validated Cryptography for Secure Communications.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 1239.7204(c), insert a clause substantially as follows:
+</p>
+                                 <p xtrc="HD1">Validated Cryptography for Secure Communications (NOV 2022)
+</p>
+                                 <p outputclass="List1">(a) The Contractor shall use only cryptographic mechanisms that comply with ___ [<i>Contracting Officer insert FIPS 140-2 level #</i>]. All deliverables shall be labeled ___ [<i>Contracting Officer insert appropriate label such as “For Official Use Only” (FOUO) or other DOT-agency selected designation per document sensitivity</i>].
+</p>
+                                 <p outputclass="List1">(b) External transmission/dissemination of ___ [<i>Contracting Officer fill-in: e.g., labeled deliverables</i>] to or from a Government computer must be encrypted. Certified encryption modules must be used in accordance with ___ [<i>Contracting Officer shall insert the standard, such as FIPS PUB 140-2, “Security requirements for Cryptographic Modules.”</i>
+                                 </p>
+                              <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

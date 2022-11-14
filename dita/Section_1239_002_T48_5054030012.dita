@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1239_002_T48_5054030012">
+      <title class="- topic/title ">
+         <ph props="autonumber">1239.002</ph> Definitions.</title>
+      <conbody>
+         <p xtrc="P">As used in this part - 
+</p>
+         <p xtrc="P">
+                              <i>Information</i> means any communication or representation of knowledge such as facts, data, or opinions in any medium or form, including textual, numerical, graphic, cartographic, narrative, or audiovisual (Committee on National Security Systems Instruction (CNSSI) 4009).
+</p>
+         <p xtrc="P">
+                              <i>Information system</i> means a discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information (44 U.S.C. 3502).
+</p>
+         <p xtrc="P">
+                              <i>Media</i> means physical devices or writing surfaces including, but not limited to, magnetic tapes, optical disks, magnetic disks, large-scale integration memory chips, and printouts onto which information is recorded, stored, or printed within an information system.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

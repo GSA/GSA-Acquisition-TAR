@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1232_7003_1_T48_5053924315">
+      <title class="- topic/title ">
+         <ph props="autonumber">1232.7003-1</ph> Electronic authentication.</title>
+      <conbody>
+         <p xtrc="P">Access to DELPHI is granted with electronic authentication of credentials (name &amp; valid email address) utilizing the General Services Administration (GSA) credentialing platform <i>login.gov</i>. Vendors submitting invoices will be required to submit invoices via <i>iSupplier</i> (DELPHI) and authenticated via <i>www.login.gov</i>.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

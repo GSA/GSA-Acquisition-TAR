@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1239_T48_5054030">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1239</ph> - ACQUISITION OF INFORMATION TECHNOLOGY</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301; 41 U.S.C. 1121(c)(3); 41 U.S.C. 1702; and 48 CFR 1.301 through 1.304.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           87 FR 61159, Oct. 7, 2022, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_1239_000_T48_5054030011.dita#Section_1239_000_T48_5054030011">1239.000 Scope of part.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_1239_002_T48_5054030012.dita#Section_1239_002_T48_5054030012">1239.002 Definitions.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1239_1_T48_50540301.dita#Subpart_1239_1_T48_50540301">Subpart 1239.1 - General</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_101_T48_5054030111.dita#Section_1239_101_T48_5054030111">1239.101 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_101_70_T48_5054030112.dita#Section_1239_101_70_T48_5054030112">1239.101-70 Policy - software management and development.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_101_71_T48_5054030113.dita#Section_1239_101_71_T48_5054030113">1239.101-71 Scope.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_101_72_T48_5054030114.dita#Section_1239_101_72_T48_5054030114">1239.101-72 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_101_73_T48_5054030115.dita#Section_1239_101_73_T48_5054030115">1239.101-73 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_106_70_T48_5054030116.dita#Section_1239_106_70_T48_5054030116">1239.106-70 Contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1239_2_T48_50540302.dita#Subpart_1239_2_T48_50540302">Subpart 1239.2 - Information and Communication Technology</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_201_T48_5054030211.dita#Section_1239_201_T48_5054030211">1239.201 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_203_T48_5054030212.dita#Section_1239_203_T48_5054030212">1239.203 Applicability.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_203_70_T48_5054030213.dita#Section_1239_203_70_T48_5054030213">1239.203-70 Information and communication technology accessibility standards - contract clause and provision.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1239_70_T48_50540303.dita#Subpart_1239_70_T48_50540303">Subpart 1239.70 - Information Security and Incident Response Reporting</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7000_T48_5054030311.dita#Section_1239_7000_T48_5054030311">1239.7000 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7001_T48_5054030312.dita#Section_1239_7001_T48_5054030312">1239.7001 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7002_T48_5054030313.dita#Section_1239_7002_T48_5054030313">1239.7002 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7003_T48_5054030314.dita#Section_1239_7003_T48_5054030314">1239.7003 Contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1239_71_T48_50540304.dita#Subpart_1239_71_T48_50540304">Subpart 1239.71 - Protection of Data About Individuals</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7100_T48_5054030411.dita#Section_1239_7100_T48_5054030411">1239.7100 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7101_T48_5054030412.dita#Section_1239_7101_T48_5054030412">1239.7101 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7102_T48_5054030413.dita#Section_1239_7102_T48_5054030413">1239.7102 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7103_T48_5054030414.dita#Section_1239_7103_T48_5054030414">1239.7103 Responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7104_T48_5054030415.dita#Section_1239_7104_T48_5054030415">1239.7104 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1239_72_T48_50540305.dita#Subpart_1239_72_T48_50540305">Subpart 1239.72 - Cloud Computing</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7200_T48_5054030511.dita#Section_1239_7200_T48_5054030511">1239.7200 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7201_T48_5054030512.dita#Section_1239_7201_T48_5054030512">1239.7201 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7202_T48_5054030513.dita#Section_1239_7202_T48_5054030513">1239.7202 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7203_T48_5054030514.dita#Section_1239_7203_T48_5054030514">1239.7203 DOT FedRAMP specific requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7204_T48_5054030515.dita#Section_1239_7204_T48_5054030515">1239.7204 Contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1239_73_T48_50540306.dita#Subpart_1239_73_T48_50540306">Subpart 1239.73 - Technology Modernization and Upgrades/Refreshment</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7300_T48_5054030611.dita#Section_1239_7300_T48_5054030611">1239.7300 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7301_T48_5054030612.dita#Section_1239_7301_T48_5054030612">1239.7301 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7302_T48_5054030613.dita#Section_1239_7302_T48_5054030613">1239.7302 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7303_T48_5054030614.dita#Section_1239_7303_T48_5054030614">1239.7303 Contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1239_74_T48_50540307.dita#Subpart_1239_74_T48_50540307">Subpart 1239.74 - Records Management</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7400_T48_5054030711.dita#Section_1239_7400_T48_5054030711">1239.7400 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7401_T48_5054030712.dita#Section_1239_7401_T48_5054030712">1239.7401 Definition.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7402_T48_5054030713.dita#Section_1239_7402_T48_5054030713">1239.7402 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1239_7403_T48_5054030714.dita#Section_1239_7403_T48_5054030714">1239.7403 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

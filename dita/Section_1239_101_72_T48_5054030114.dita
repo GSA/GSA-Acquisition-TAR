@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1239_101_72_T48_5054030114">
+      <title class="- topic/title ">
+         <ph props="autonumber">1239.101-72</ph> Definitions.</title>
+      <conbody>
+         <p xtrc="P">As used in this subpart - 
+</p>
+         <p xtrc="P">
+                                 <i>Application</i> means software that resides above system software and includes applications such as database programs, word processors and spreadsheets. Application software may be bundled with system software or published alone.
+</p>
+         <p xtrc="P">
+                                 <i>Programming software</i> means tools to aid developers in writing programs including compilers, linkers, debuggers, interpreters and text editors.
+</p>
+         <p xtrc="P">
+                                 <i>Software</i> means a set of instructions or programs instructing a computer to do specific tasks including scripts, applications, programs and a set of instructions. Includes System, Programming, and Application software.
+</p>
+         <p xtrc="P">
+                                 <i>System software</i> means a platform comprised of Operating System (OS) programs and services, including settings and preferences, file libraries and functions used for system applications. System software also includes device drivers that run basic computer hardware and peripherals.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

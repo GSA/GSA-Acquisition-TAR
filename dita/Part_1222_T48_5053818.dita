@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1222_T48_5053818">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1222</ph> - APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301; 41 U.S.C. 1121(c)(3); 41 U.S.C. 1702; and 48 CFR 1.301 through 1.304.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           87 FR 61159, Oct. 7, 2022, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1222_1_T48_50538181.dita#Subpart_1222_1_T48_50538181">Subpart 1222.1 - Basic Labor Policies</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1222_101_T48_5053818111.dita#Section_1222_101_T48_5053818111">1222.101 Labor relations.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1222_101_70_T48_5053818112.dita#Section_1222_101_70_T48_5053818112">1222.101-70 Admittance of union representatives to DOT installations.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1222_101_71_T48_5053818113.dita#Section_1222_101_71_T48_5053818113">1222.101-71 Contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1222_8_T48_50538182.dita#Subpart_1222_8_T48_50538182">Subpart 1222.8 - Equal Employment Opportunity</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1222_808_T48_5053818211.dita#Section_1222_808_T48_5053818211">1222.808 Complaints.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1222_810_70_T48_5053818212.dita#Section_1222_810_70_T48_5053818212">1222.810-70 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

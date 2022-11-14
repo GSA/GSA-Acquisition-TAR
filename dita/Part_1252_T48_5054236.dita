@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1252_T48_5054236">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1252</ph> - SOLICITATION PROVISIONS AND C ONTRACT CLAUSES</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301; 41 U.S.C. 1121(c)(3); 41 U.S.C. 1702; and 48 CFR 1.301 through 1.304.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           87 FR 61159, Oct. 7, 2022, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1252_1_T48_50542361.dita#Subpart_1252_1_T48_50542361">Subpart 1252.1 - Instructions for Using Provisions and Clauses</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_101_70_T48_5054236111.dita#Section_1252_101_70_T48_5054236111">1252.101-70 Using this part.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1252_2_T48_50542362.dita#Subpart_1252_2_T48_50542362">Subpart 1252.2 - Text of Provisions and Clauses</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_201_70_T48_5054236211.dita#Section_1252_201_70_T48_5054236211">1252.201-70 Contracting Officer's Representative.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_204_70_T48_5054236212.dita#Section_1252_204_70_T48_5054236212">1252.204-70 Contractor Personnel Security and Agency Access.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_209_70_T48_5054236213.dita#Section_1252_209_70_T48_5054236213">1252.209-70 Organizational and Consultant Conflicts of Interest.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_209_71_T48_5054236214.dita#Section_1252_209_71_T48_5054236214">1252.209-71 Limitation of Future Contracting.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_211_70_T48_5054236215.dita#Section_1252_211_70_T48_5054236215">1252.211-70 Index for Specifications.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_216_70_T48_5054236216.dita#Section_1252_216_70_T48_5054236216">1252.216-70 Evaluation of Offers Subject to an Economic Price Adjustment Clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_216_71_T48_5054236217.dita#Section_1252_216_71_T48_5054236217">1252.216-71 Determination of Award Fee.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_216_72_T48_5054236218.dita#Section_1252_216_72_T48_5054236218">1252.216-72 Award Fee Plan.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_216_73_T48_5054236219.dita#Section_1252_216_73_T48_5054236219">1252.216-73 Distribution of Award Fee.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_216_74_T48_50542362110.dita#Section_1252_216_74_T48_50542362110">1252.216-74 Settlement of Letter Contract.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_217_70_T48_50542362111.dita#Section_1252_217_70_T48_50542362111">1252.217-70 Guarantee.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_217_71_T48_50542362112.dita#Section_1252_217_71_T48_50542362112">1252.217-71 Delivery and Shifting of Vessel.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_217_72_T48_50542362113.dita#Section_1252_217_72_T48_50542362113">1252.217-72 Performance.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_217_73_T48_50542362114.dita#Section_1252_217_73_T48_50542362114">1252.217-73 Inspection and Manner of Doing Work.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_217_74_T48_50542362115.dita#Section_1252_217_74_T48_50542362115">1252.217-74 Subcontracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_217_75_T48_50542362116.dita#Section_1252_217_75_T48_50542362116">1252.217-75 Lay Days.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_217_76_T48_50542362117.dita#Section_1252_217_76_T48_50542362117">1252.217-76 Liability and Insurance.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_217_77_T48_50542362118.dita#Section_1252_217_77_T48_50542362118">1252.217-77 Title.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_217_78_T48_50542362119.dita#Section_1252_217_78_T48_50542362119">1252.217-78 Discharge of Liens.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_217_79_T48_50542362120.dita#Section_1252_217_79_T48_50542362120">1252.217-79 Delays.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_217_80_T48_50542362121.dita#Section_1252_217_80_T48_50542362121">1252.217-80 Department of Labor Safety and Health Regulations for Ship Repair.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_222_70_T48_50542362122.dita#Section_1252_222_70_T48_50542362122">1252.222-70 Strikes or Picketing Affecting Timely Completion of the Contract Work.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_222_71_T48_50542362123.dita#Section_1252_222_71_T48_50542362123">1252.222-71 Strikes or Picketing Affecting Access to a DOT Facility.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_222_72_T48_50542362124.dita#Section_1252_222_72_T48_50542362124">1252.222-72 Contractor Cooperation in Equal Employment Opportunity and Anti-Harassment Investigations.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_223_70_T48_50542362125.dita#Section_1252_223_70_T48_50542362125">1252.223-70 Removal or Disposal of Hazardous Substances - Applicable Licenses and Permits.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_223_71_T48_50542362126.dita#Section_1252_223_71_T48_50542362126">1252.223-71 Accident and Fire Reporting.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_223_72_T48_50542362127.dita#Section_1252_223_72_T48_50542362127">1252.223-72 Protection of Human Subjects.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_223_73_T48_50542362128.dita#Section_1252_223_73_T48_50542362128">1252.223-73 Seat Belt Use Policies and Programs.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_228_70_T48_50542362129.dita#Section_1252_228_70_T48_50542362129">1252.228-70 Loss of or Damage to Leased Aircraft.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_228_71_T48_50542362130.dita#Section_1252_228_71_T48_50542362130">1252.228-71 Fair Market Value of Aircraft.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_228_72_T48_50542362131.dita#Section_1252_228_72_T48_50542362131">1252.228-72 Risk and Indemnities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_228_73_T48_50542362132.dita#Section_1252_228_73_T48_50542362132">1252.228-73 Command of Aircraft.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_228_74_T48_50542362133.dita#Section_1252_228_74_T48_50542362133">1252.228-74 Notification of Payment Bond Protection.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_231_70_T48_50542362134.dita#Section_1252_231_70_T48_50542362134">1252.231-70 Date of Incurrence of Costs.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_232_70_T48_50542362135.dita#Section_1252_232_70_T48_50542362135">1252.232-70 Electronic Submission of Payment Requests.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_232_71_T48_50542362136.dita#Section_1252_232_71_T48_50542362136">1252.232-71 Limitation of Government's Obligation.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_235_70_T48_50542362137.dita#Section_1252_235_70_T48_50542362137">1252.235-70 Research Misconduct.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_235_71_T48_50542362138.dita#Section_1252_235_71_T48_50542362138">1252.235-71 Technology Transfer.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_236_70_T48_50542362139.dita#Section_1252_236_70_T48_50542362139">1252.236-70 Special Precautions for Work at Operating Airports.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_237_70_T48_50542362140.dita#Section_1252_237_70_T48_50542362140">1252.237-70 Qualifications of Contractor Employees.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_237_71_T48_50542362141.dita#Section_1252_237_71_T48_50542362141">1252.237-71 Certification of Data.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_237_72_T48_50542362142.dita#Section_1252_237_72_T48_50542362142">1252.237-72 Prohibition on Advertising.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_237_73_T48_50542362143.dita#Section_1252_237_73_T48_50542362143">1252.237-73 Key Personnel.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_70_T48_50542362144.dita#Section_1252_239_70_T48_50542362144">1252.239-70 Security Requirements for Unclassified Information Technology Resources.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_71_T48_50542362145.dita#Section_1252_239_71_T48_50542362145">1252.239-71 Information Technology Security Plan and Accreditation.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_72_T48_50542362146.dita#Section_1252_239_72_T48_50542362146">1252.239-72 Compliance with Safeguarding DOT Sensitive Data Controls.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_73_T48_50542362147.dita#Section_1252_239_73_T48_50542362147">1252.239-73 Limitations on the Use or Disclosure of Third-Party Contractor Reported Cyber Incident Information.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_74_T48_50542362148.dita#Section_1252_239_74_T48_50542362148">1252.239-74 Safeguarding DOT Sensitive Data and Cyber Incident Reporting.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_75_T48_50542362149.dita#Section_1252_239_75_T48_50542362149">1252.239-75 DOT Protection of Information About Individuals, PII, and Privacy Risk Management Requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_76_T48_50542362150.dita#Section_1252_239_76_T48_50542362150">1252.239-76 Cloud Computing Services.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_77_T48_50542362151.dita#Section_1252_239_77_T48_50542362151">1252.239-77 Data Jurisdiction.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_78_T48_50542362152.dita#Section_1252_239_78_T48_50542362152">1252.239-78 Validated Cryptography for Secure Communications.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_79_T48_50542362153.dita#Section_1252_239_79_T48_50542362153">1252.239-79 Authentication, Data Integrity, and Non-Repudiation.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_80_T48_50542362154.dita#Section_1252_239_80_T48_50542362154">1252.239-80 Audit Record Retention for Cloud Service Providers.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_81_T48_50542362155.dita#Section_1252_239_81_T48_50542362155">1252.239-81 Cloud Identification and Authentication (Organizational Users) Multi-Factor Authentication.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_82_T48_50542362156.dita#Section_1252_239_82_T48_50542362156">1252.239-82 Identification and Authentication (Non-Organizational Users).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_83_T48_50542362157.dita#Section_1252_239_83_T48_50542362157">1252.239-83 Incident Reporting Timeframes.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_84_T48_50542362158.dita#Section_1252_239_84_T48_50542362158">1252.239-84 Media Transport.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_85_T48_50542362159.dita#Section_1252_239_85_T48_50542362159">1252.239-85 Personnel Screening - Background Investigations.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_86_T48_50542362160.dita#Section_1252_239_86_T48_50542362160">1252.239-86 Boundary Protection - Trusted Internet Connections.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_87_T48_50542362161.dita#Section_1252_239_87_T48_50542362161">1252.239-87 Protection of Information at Rest.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_88_T48_50542362162.dita#Section_1252_239_88_T48_50542362162">1252.239-88 Security Alerts, Advisories, and Directives.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_89_T48_50542362163.dita#Section_1252_239_89_T48_50542362163">1252.239-89 Technology Modernization.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_90_T48_50542362164.dita#Section_1252_239_90_T48_50542362164">1252.239-90 Technology Upgrades/Refreshment.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_91_T48_50542362165.dita#Section_1252_239_91_T48_50542362165">1252.239-91 Records Management.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_92_T48_50542362166.dita#Section_1252_239_92_T48_50542362166">1252.239-92 Information and Communication Technology Accessibility Notice.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_239_93_T48_50542362167.dita#Section_1252_239_93_T48_50542362167">1252.239-93 Information and Communication Technology Accessibility.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_242_70_T48_50542362168.dita#Section_1252_242_70_T48_50542362168">1252.242-70 Dissemination of Information - Educational Institutions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_242_71_T48_50542362169.dita#Section_1252_242_71_T48_50542362169">1252.242-71 Contractor Testimony.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_242_72_T48_50542362170.dita#Section_1252_242_72_T48_50542362170">1252.242-72 Dissemination of Contract Information.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_242_74_T48_50542362171.dita#Section_1252_242_74_T48_50542362171">1252.242-74 Contract Audit Support.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1252_3_T48_50542363.dita#Subpart_1252_3_T48_50542363">Subpart 1252.3 - Provision and Clause Matrix</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1252_301_T48_5054236311.dita#Section_1252_301_T48_5054236311">1252.301 Solicitation provisions and contract clauses (matrix).</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

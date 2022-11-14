@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1209_403_T48_505369112">
+      <title class="- topic/title ">
+         <ph props="autonumber">1209.403</ph> Definitions.</title>
+      <conbody>
+         <p xtrc="P">As used in this subpart - 
+</p>
+         <p xtrc="P">
+                                 <i>DOT Order 4200.5G</i> means the DOT order establishing DOT's internal procedures for Suspension and Debarment, and Ineligibility Policies.
+</p>
+         <p xtrc="P">
+                                 <i>Senior Accountable Official (SAO) for Suspension and Debarment</i> means the Senior Procurement Executive (SPE), as delegated by the Secretary of DOT, for all suspensions and debarments within DOT. The SAO sets forth standards for suspension and debarment policies and procedures for the Department of Transportation, excluding the Office of Inspector General (OIG).
+</p>
+         <p xtrc="P">
+                                 <i>Suspension and Debarment Coordinator (SDC)</i> means the program manager for the Suspension and Debarment Program at each OA and Office of the Secretary of Transportation. The SDC advises the Suspending and Debarring Official (SDO). The SDC coordinates all materials for presentation to the SDO for proposed suspension or debarment activities, enters information regarding any administrative agreement into the Federal Awardee Performance and Integrity Information System (FAPIIS), and enters information regarding suspensions and debarments into <i>SAM.gov.</i>
+                              </p>
+         <p xtrc="P">
+                                 <i>Suspending and Debarring Official (SDO)</i> means the individual designated responsibility as authorized by the Secretary of DOT to impose procurement suspensions and debarments, exclusions, and other related matters pursuant to FAR part 9. Each OA and the OST has separately appointed SDOs. The SPE serves as the SDO for OST. A list of the OA-appointed SDOs is maintained on the OSPE website at <i>https://www.transportation.gov/assistant-secretary-administration/procurement/suspension-and-debarment.</i>
+
+
+                              </p>
+      </conbody>
+   </concept>
+</dita>

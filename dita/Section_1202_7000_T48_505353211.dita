@@ -6,10 +6,117 @@
       <title class="- topic/title ">
          <ph props="autonumber">1202.7000</ph> General.</title>
       <conbody>
-         <p xtrc="P">Most documents cited throughout (TAR) 48 CFR chapter 12, can be found on the internet. (TAR) 48 CFR chapter 12 will cite the corresponding internet address.
-
-
+         <p xtrc="P">The following abbreviations or acronyms may be used throughout the TAR and the agency's associated internal policies and procedures in the TAM - 
 </p>
+         <p xtrc="DIV">
+                                 
+                                 
+                                    <table frame="all" colsep="1" rowsep="1">
+               <title>
+                                    Table 1 to 1202.7000 - Abbreviations and Acronyms
+
+                                 </title>
+               <tgroup cols="2" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                          <entry colname="1"> 
+</entry>
+                                          <entry colname="2"> 
+</entry>
+                                       </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">CFO</entry>
+                                          <entry colname="2" align="left">Chief Financial Officer.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">CIO</entry>
+                                          <entry colname="2" align="left">Chief Information Officer.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">COCO</entry>
+                                          <entry colname="2" align="left">Chief of the Contracting Office.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">COR</entry>
+                                          <entry colname="2" align="left">Contracting Officer's Representative.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">D&amp;F</entry>
+                                          <entry colname="2" align="left">Determination and Findings.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">FOIA</entry>
+                                          <entry colname="2" align="left">Freedom of Information Act.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">HCA</entry>
+                                          <entry colname="2" align="left">Head of the Contracting Activity.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">HOA</entry>
+                                          <entry colname="2" align="left">Head of the Operating Administration.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">J&amp;A</entry>
+                                          <entry colname="2" align="left">Justification and Approval.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">OA</entry>
+                                          <entry colname="2" align="left">Operating Administration.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">OIG</entry>
+                                          <entry colname="2" align="left">Office of the Inspector General.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">OSDBU</entry>
+                                          <entry colname="2" align="left">Office of Small and Disadvantaged Business Utilization.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">PCR</entry>
+                                          <entry colname="2" align="left">Procurement Center Representative.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">RFP</entry>
+                                          <entry colname="2" align="left">Request for Proposal.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">SBA</entry>
+                                          <entry colname="2" align="left">Small Business Administration.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">SBS</entry>
+                                          <entry colname="2" align="left">Small Business Specialist.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">SPE</entry>
+                                          <entry colname="2" align="left">Senior Procurement Executive.</entry>
+                                       </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                 
+                              </p>
       </conbody>
    </concept>
 </dita>

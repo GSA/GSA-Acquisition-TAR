@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1232_7002_T48_5053924313">
+      <title class="- topic/title ">
+         <ph props="autonumber">1232.7002</ph> Electronic payment requests - invoices.</title>
+      <conbody>
+         <p outputclass="List1">(a) <i>Requirements.</i> Contracts shall require the electronic submission of payment requests, except for - 
+</p>
+         <p outputclass="List2">(1) Purchases paid for with a Governmentwide commercial purchase card;
+</p>
+         <p outputclass="List2">(2) Classified contracts or purchases when electronic submission and processing of payment requests could compromise classified information or national security; or
+</p>
+         <p outputclass="List2">(3) As directed by the contracting officer to submit payment requests by mail.
+</p>
+         <p outputclass="List1">(b) <i>Alternate procedures.</i> Where a contract requires the electronic submission of invoices, the contracting officer may authorize alternate procedures only if the contracting officer makes a written determination that the Department of the Transportation (DOT) is unable to receive electronic payment requests or provide acceptance electronically and it is approved one level above the contracting officer.
+</p>
+         <p outputclass="List1">(c) <i>DOT electronic invoicing system.</i> The Department of Transportation utilizes the DELPHI eInvoicing System. The DELPHI module for submitting invoices is called <i>iSupplier.</i> Except as provided in paragraphs (a) and (b) of this section, contracting officers and DOT finance officials shall process electronic payment submissions through the DELPHI System and the DELPHI module for submitting invoices, <i>iSupplier. iSupplier</i> is also the official system of record for DOT payment requests. If the requirement for electronic submission of payment requests is waived under paragraph (a) or (b) of this section, the contract or alternate payment authorization, as applicable, shall specify the form and method of payment request submission.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

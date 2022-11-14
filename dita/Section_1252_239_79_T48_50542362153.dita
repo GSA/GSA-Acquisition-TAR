@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1252_239_79_T48_50542362153">
+      <title class="- topic/title ">
+         <ph props="autonumber">1252.239-79</ph> Authentication, Data Integrity, and Non-Repudiation.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 1239.7204(d), insert a clause substantially as follows:
+</p>
+                                 <p xtrc="HD1">Authentication, Data Integrity, and Non-Repudiation (NOV 2022)
+</p>
+                                 <p xtrc="P">The Contractor shall provide a [<i>Fill-in: Contracting Officer fill-in the “cloud service” name</i>] system that implements ___ [<i>Contracting Officer insert the required level (1-4) of FIPS 140-2 encryption standard</i>] that provides for origin authentication, data integrity, and signer non-repudiation.</p>
+                              <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

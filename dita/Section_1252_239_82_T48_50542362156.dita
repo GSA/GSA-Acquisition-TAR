@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1252_239_82_T48_50542362156">
+      <title class="- topic/title ">
+         <ph props="autonumber">1252.239-82</ph> Identification and Authentication (Non-Organizational Users).</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 1239.7204(g), insert the following clause:
+</p>
+                                 <p xtrc="HD1">Identification and Authentication (Non-Organizational Users) (NOV 2022)
+</p>
+                                 <p xtrc="P">The Contractor shall support a secure, multi-factor method of remote authentication and authorization to identified Contractor Administrators that will allow Contractor designated personnel the ability to perform management duties on the system as required by the contract.</p>
+                              <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>
