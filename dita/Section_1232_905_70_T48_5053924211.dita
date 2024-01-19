@@ -4,13 +4,13 @@
 <dita>
    <concept outputclass="Section" id="Section_1232_905_70_T48_5053924211">
       <title class="- topic/title ">
-         <ph props="autonumber">1232.905-70</ph> Payment documentation and process - form of invoice.</title>
+         <ph props="autonumber">1232.905-70</ph> Payment documentation and process—form of invoice.</title>
       <conbody>
          <p outputclass="List1">(a) Under fixed-price contracts, the contracting officer shall require the contractor to submit an invoice or voucher on any form or format meeting FAR 32.905(b) requirements.
 </p>
          <p outputclass="List1">(b) Under other than fixed-price contracts, the contracting officer shall require the contractor to submit the Standard Form (SF) 1034, Public Voucher for Purchases and Services Other Than Personal, and the SF 1035, Public Voucher for Purchases and Services Other Than Personal (Continuation Sheet), to request payments. The forms must be completed as required by figure 1 to this section, Instructions for Completing the SF 1034, and figure 2 to this section, Instructions for Completing the SF 1035.
 </p>
-         <p xtrc="HD1">Figure 1 to 1232.905-70
+         <p xtrc="HD1">Figure 1 to 1232.905–70
 </p>
          <p xtrc="HD2">Instructions for Completing the SF 1034
 </p>
@@ -80,7 +80,7 @@ contract number or order number (when applicable). Note: Insert the word “FINA
                                        </row>
                      <row rowsep="1">
                                           <entry colname="1" align="left">10. ARTICLES OR SERVICES</entry>
-                                          <entry colname="2" align="left">Insert the following: “For detail, see the total amount of the claim transferred from the attached SF 1035, page X of X.” One space below this line, insert the following: “COST REIMBURSABLE-PROVISIONAL PAYMENT.”
+                                          <entry colname="2" align="left">Insert the following: “For detail, see the total amount of the claim transferred from the attached SF 1035, page X of X.” One space below this line, insert the following: “COST REIMBURSABLE–PROVISIONAL PAYMENT.”
 </entry>
                                        </row>
                      <row rowsep="1">
@@ -102,7 +102,7 @@ contract number or order number (when applicable). Note: Insert the word “FINA
             </table>
                                  
                               </p>
-         <p xtrc="HD1">Figure 2 to 1232.905-70
+         <p xtrc="HD1">Figure 2 to 1232.905–70
 </p>
          <p xtrc="HD2">Instructions for Completing the SF 1035
 </p>

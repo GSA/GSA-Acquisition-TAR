@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_1201_T48_505352">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 1201</ph> - FEDERAL ACQUISITION REGULATIONS SYSTEM</title>
+      <title class="- topic/title ">PART 1201—FEDERAL ACQUISITION REGULATIONS SYSTEM
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -24,7 +24,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1201_1_T48_5053521.dita#Subpart_1201_1_T48_5053521">Subpart 1201.1 - Purpose, Authority, Issuance</xref>
+                        href="Subpart_1201_1_T48_5053521.dita#Subpart_1201_1_T48_5053521">Subpart 1201.1—Purpose, Authority, Issuance</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -80,7 +80,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1201_2_T48_5053522.dita#Subpart_1201_2_T48_5053522">Subpart 1201.2 - Administration</xref>
+                        href="Subpart_1201_2_T48_5053522.dita#Subpart_1201_2_T48_5053522">Subpart 1201.2—Administration</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -100,7 +100,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1201_3_T48_5053523.dita#Subpart_1201_3_T48_5053523">Subpart 1201.3 - Agency Acquisition Regulations</xref>
+                        href="Subpart_1201_3_T48_5053523.dita#Subpart_1201_3_T48_5053523">Subpart 1201.3—Agency Acquisition Regulations</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -138,7 +138,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1201_470_T48_5053524.dita#Subpart_1201_470_T48_5053524">Subpart 1201.470 - Deviations From the FAR and TAR</xref>
+                        href="Subpart_1201_470_T48_5053524.dita#Subpart_1201_470_T48_5053524">Subpart 1201.470—Deviations From the FAR and TAR</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -158,7 +158,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1201_6_T48_5053525.dita#Subpart_1201_6_T48_5053525">Subpart 1201.6 - Career Development, Contracting Authority, and Responsibilities</xref>
+                        href="Subpart_1201_6_T48_5053525.dita#Subpart_1201_6_T48_5053525">Subpart 1201.6—Career Development, Contracting Authority, and Responsibilities</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

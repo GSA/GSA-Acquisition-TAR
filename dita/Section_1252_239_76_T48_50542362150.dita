@@ -10,7 +10,7 @@
 </p>
                                  <p xtrc="HD1">Cloud Computing Services (NOV 2022)
 </p>
-                                 <p outputclass="List1">(a) <i>Definitions.</i> As used in this clause - 
+                                 <p outputclass="List1">(a) <i>Definitions.</i> As used in this clause—
 </p>
                                  <p xtrc="P">
                                     <i>Authorizing official,</i> as described in Appendix B of DOT Order 1350.37, Departmental Cybersecurity Policy, means the senior Federal official or executive with the responsibility for operating an information system at an acceptable level of risk to organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, and the Nation.
@@ -19,7 +19,7 @@
                                     <i>Cloud computing</i> means a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (<i>e.g.,</i> networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction. This includes other commercial terms, such as on-demand self-service, broad network access, resource pooling, rapid elasticity, and measured service. It also includes commercial offerings for software-as-a-service, infrastructure-as-a-service, and platform-as-a-service.
 </p>
                                  <p xtrc="P">
-                                    <i>Compromise</i> means disclosure of information to unauthorized persons, or a violation of the security policy of a system, whereby without authorization information is disclosed, modified, destroyed, lost, or copied to unauthorized media - whether intentionally or unintentionally.
+                                    <i>Compromise</i> means disclosure of information to unauthorized persons, or a violation of the security policy of a system, whereby without authorization information is disclosed, modified, destroyed, lost, or copied to unauthorized media—whether intentionally or unintentionally.
 </p>
                                  <p xtrc="P">
                                     <i>Cyber incident</i> means actions taken through the use of computer networks that result in a compromise or an actual or potentially adverse effect on an information system and/or the information residing therein.
@@ -47,7 +47,7 @@
 </p>
                                  <p outputclass="List2">(3) The Contractor shall maintain all Government data not physically located on DOT premises within the United States, the District of Columbia, and all territories and possessions of the United States, unless the Contractor receives written notification from the Contracting Officer to use another location, in accordance with DOT Policy.
 </p>
-                                 <p outputclass="List2">(4) DOT will determine the security classification level for the cloud system in accordance with Federal Information Processing Standard 199; the Contractor will then apply the appropriate set of impact baseline controls as required in the FedRAMP Cloud Computing Security Requirements Baseline document to ensure compliance with security standards. The FedRAMP baseline controls are based on NIST Special Publication 800-53, Revision 5, Security and Privacy Controls for Information Systems and Organizations, Security Control Baselines and also includes a set of additional controls for use within systems providing cloud services to the Federal government.
+                                 <p outputclass="List2">(4) DOT will determine the security classification level for the cloud system in accordance with Federal Information Processing Standard 199; the Contractor will then apply the appropriate set of impact baseline controls as required in the FedRAMP Cloud Computing Security Requirements Baseline document to ensure compliance with security standards. The FedRAMP baseline controls are based on NIST Special Publication 800–53, Revision 5, Security and Privacy Controls for Information Systems and Organizations, Security Control Baselines and also includes a set of additional controls for use within systems providing cloud services to the Federal government.
 </p>
                                  <p outputclass="List2">(5) The Contractor shall maintain a security management continuous monitoring environment that meets or exceeds the requirements in the Reporting and Continuous Monitoring section of this contract/task order ___ [<i>Fill-in: Contracting Officer enter the requirements document paragraph reference number</i>] based upon the latest edition of FedRAMP Cloud Computing Security Requirements Baseline and FedRAMP Continuous Monitoring Requirements.
 </p>
@@ -57,7 +57,7 @@
 </p>
                                  <p outputclass="List3">(ii) The Contractor shall also comply with any additional FedRAMP and DOT Orders containing cybersecurity and privacy policies.
 </p>
-                                 <p outputclass="List2">(7) The Government may perform manual or automated audits, scans, reviews, or other inspections of the vendor's IT environment being used to provide or facilitate services for the Government. In accordance with the Federal Acquisition Regulation (FAR) clause 52.239-1, Privacy or Security Safeguards, the Contractor shall provide the Government access to Contractor's facilities, installations, technical capabilities, operations, documentation, records and databases to carry out a program of inspection. Contractors shall provide access within two hours of notification by the Government. The program of inspection shall include, but is not limited to - 
+                                 <p outputclass="List2">(7) The Government may perform manual or automated audits, scans, reviews, or other inspections of the vendor's IT environment being used to provide or facilitate services for the Government. In accordance with the Federal Acquisition Regulation (FAR) clause 52.239–1, Privacy or Security Safeguards, the Contractor shall provide the Government access to Contractor's facilities, installations, technical capabilities, operations, documentation, records and databases to carry out a program of inspection. Contractors shall provide access within two hours of notification by the Government. The program of inspection shall include, but is not limited to—
 </p>
                                  <p outputclass="List3">(i) Authenticated and unauthenticated operating system/network vulnerability; scans;
 </p>
@@ -83,7 +83,7 @@
 </p>
                                  <p outputclass="List2">(2) The Contractor shall use Government-related data only to manage the operational environment that supports the Government data and for no other purpose unless otherwise permitted with the prior written approval of the Contracting Officer.
 </p>
-                                 <p outputclass="List1">(d) <i>Cloud computing services cyber incident reporting.</i> The Contractor shall report all cyber incidents related to the cloud computing service provided under this contract. to DOT via the DOT Security Operations Center (SOC) 24 hours-a-day, 7 days-a-week, 365 days a year (24x7x365) at phone number: 571-209-3080 (Toll Free: 866-580-1852) within 2 hours of discovery.
+                                 <p outputclass="List1">(d) <i>Cloud computing services cyber incident reporting.</i> The Contractor shall report all cyber incidents related to the cloud computing service provided under this contract. to DOT via the DOT Security Operations Center (SOC) 24 hours-a-day, 7 days-a-week, 365 days a year (24x7x365) at phone number: 571–209–3080 (Toll Free: 866–580–1852) within 2 hours of discovery.
 </p>
                                  <p outputclass="List1">(e) <i>Spillage.</i> Upon notification by the Government of a spillage, or upon the Contractor's discovery of a spillage, the Contractor shall cooperate with the Contracting Officer to address the spillage in compliance with agency procedures.
 </p>
