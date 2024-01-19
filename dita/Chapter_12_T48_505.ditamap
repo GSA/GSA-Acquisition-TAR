@@ -2,31 +2,31 @@
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "C:\GSA-Acquisition-tools\TOOLS\StructureGSA_FAR\xml\DITA_1.2\app\technicalContent\dtd\map.dtd">
 <map outputclass="ecfr" otherprops="String2Xref">
-   <title> CHAPTER 12 - DEPARTMENT OF TRANSPORTATION</title>
+   <title> CHAPTER 12—DEPARTMENT OF TRANSPORTATION</title>
    <topicref navtitle="Volume Number"
              href="VolumeChapter_12_T48_505.dita"
-             props="CHAPTER 12"
+             props="CHAPTER 12—DEPARTMENT OF TRANSPORTATION"
              outputclass="Volume">
       <topicref navtitle="Chapter Title"
                 href="Chapter_12_T48_505.dita"
-                props="CHAPTER 12"/>
+                props="CHAPTER 12—DEPARTMENT OF TRANSPORTATION"/>
    </topicref>
-   <topicref navtitle="SUBCHAPTER A - GENERAL&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER A—GENERAL&#xA;&#xA;&#xA;"
              href="Subchapter_A_T48_50535.dita"
-             props="SUBCHAPTER A"
-             outputclass="SubChapter">
+             outputclass="SubChapter"
+             props="SubChapter A">
       <topicref navtitle="PART 1200 [RESERVED]&#xA;&#xA;&#xA;"
                 href="Part_1200_T48_505351.dita"
-                props="PART 1200"
-                outputclass="Part"/>
-      <topicref navtitle="PART 1201 - FEDERAL ACQUISITION REGULATIONS SYSTEM&#xA;"
+                outputclass="Part"
+                props="Part 1200"/>
+      <topicref navtitle="PART 1201—FEDERAL ACQUISITION REGULATIONS SYSTEM&#xA;"
                 href="Part_1201_T48_505352.dita"
-                props="PART 1201"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1201.1 - Purpose, Authority, Issuance"
+                outputclass="Part"
+                props="Part 1201">
+         <topicref navtitle="Subpart 1201.1—Purpose, Authority, Issuance"
                    href="Subpart_1201_1_T48_5053521.dita"
-                   props="Subpart 1201.1"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1201.1">
             <topicref navtitle="1201.101   Purpose."
                       href="Section_1201_101_T48_505352111.dita"
                       props="1201.101"
@@ -60,10 +60,10 @@
                       props="1201.106"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1201.2 - Administration"
+         <topicref navtitle="Subpart 1201.2—Administration"
                    href="Subpart_1201_2_T48_5053522.dita"
-                   props="Subpart 1201.2"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1201.2">
             <topicref navtitle="1201.201   Maintenance of the FAR."
                       href="Section_1201_201_T48_505352211.dita"
                       props="1201.201"
@@ -73,10 +73,10 @@
                       props="1201.201-1"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1201.3 - Agency Acquisition Regulations"
+         <topicref navtitle="Subpart 1201.3—Agency Acquisition Regulations"
                    href="Subpart_1201_3_T48_5053523.dita"
-                   props="Subpart 1201.3"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1201.3">
             <topicref navtitle="1201.301   Policy."
                       href="Section_1201_301_T48_505352311.dita"
                       props="1201.301"
@@ -98,10 +98,10 @@
                       props="1201.304"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1201.470 - Deviations From the FAR and TAR"
+         <topicref navtitle="Subpart 1201.470—Deviations From the FAR and TAR"
                    href="Subpart_1201_470_T48_5053524.dita"
-                   props="Subpart 1201.470"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1201.470">
             <topicref navtitle="1201.403   Individual deviations."
                       href="Section_1201_403_T48_505352411.dita"
                       props="1201.403"
@@ -111,10 +111,10 @@
                       props="1201.404"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1201.6 - Career Development, Contracting Authority, and Responsibilities"
+         <topicref navtitle="Subpart 1201.6—Career Development, Contracting Authority, and Responsibilities"
                    href="Subpart_1201_6_T48_5053525.dita"
-                   props="Subpart 1201.6"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1201.6">
             <topicref navtitle="1201.602   Contracting officers."
                       href="Section_1201_602_T48_505352511.dita"
                       props="1201.602"
@@ -145,46 +145,46 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1202 - DEFINITIONS OF WORDS AND TERMS&#xA;"
+      <topicref navtitle="PART 1202—DEFINITIONS OF WORDS AND TERMS&#xA;"
                 href="Part_1202_T48_505353.dita"
-                props="PART 1202"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1202.1 - Definitions"
+                outputclass="Part"
+                props="Part 1202">
+         <topicref navtitle="Subpart 1202.1—Definitions"
                    href="Subpart_1202_1_T48_5053531.dita"
-                   props="Subpart 1202.1"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1202.1">
             <topicref navtitle="1202.101   Definitions."
                       href="Section_1202_101_T48_505353111.dita"
                       props="1202.101"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1202.70 - Abbreviations"
+         <topicref navtitle="Subpart 1202.70—Abbreviations"
                    href="Subpart_1202_70_T48_5053532.dita"
-                   props="Subpart 1202.70"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1202.70">
             <topicref navtitle="1202.7000   General."
                       href="Section_1202_7000_T48_505353211.dita"
                       props="1202.7000"
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1203 - IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST&#xA;"
+      <topicref navtitle="PART 1203—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST&#xA;"
                 href="Part_1203_T48_505354.dita"
-                props="PART 1203"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1203.1 - Safeguards"
+                outputclass="Part"
+                props="Part 1203">
+         <topicref navtitle="Subpart 1203.1—Safeguards"
                    href="Subpart_1203_1_T48_5053541.dita"
-                   props="Subpart 1203.1"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1203.1">
             <topicref navtitle="1203.101-3   Agency regulations."
                       href="Section_1203_101_3_T48_505354111.dita"
                       props="1203.101-3"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1203.2 - Contractor Gratuities to Government Personnel"
+         <topicref navtitle="Subpart 1203.2—Contractor Gratuities to Government Personnel"
                    href="Subpart_1203_2_T48_5053542.dita"
-                   props="Subpart 1203.2"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1203.2">
             <topicref navtitle="1203.203   Reporting suspected violations of the Gratuities clause."
                       href="Section_1203_203_T48_505354211.dita"
                       props="1203.203"
@@ -194,10 +194,10 @@
                       props="1203.204"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1203.3 - Reports of Suspected Antitrust Violations"
+         <topicref navtitle="Subpart 1203.3—Reports of Suspected Antitrust Violations"
                    href="Subpart_1203_3_T48_5053543.dita"
-                   props="Subpart 1203.3"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1203.3">
             <topicref navtitle="1203.301   General."
                       href="Section_1203_301_T48_505354311.dita"
                       props="1203.301"
@@ -207,69 +207,69 @@
                       props="1203.303"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1203.4 - Contingent Fees"
+         <topicref navtitle="Subpart 1203.4—Contingent Fees"
                    href="Subpart_1203_4_T48_5053544.dita"
-                   props="Subpart 1203.4"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1203.4">
             <topicref navtitle="1203.405   Misrepresentations or violations of the Covenant Against Contingent Fees."
                       href="Section_1203_405_T48_505354411.dita"
                       props="1203.405"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1203.5 - Other Improper Business Practices"
+         <topicref navtitle="Subpart 1203.5—Other Improper Business Practices"
                    href="Subpart_1203_5_T48_5053545.dita"
-                   props="Subpart 1203.5"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1203.5">
             <topicref navtitle="1203.502-2   Subcontractor kickbacks."
                       href="Section_1203_502_2_T48_505354511.dita"
                       props="1203.502-2"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1203.7 - Voiding and Rescinding Contracts"
+         <topicref navtitle="Subpart 1203.7—Voiding and Rescinding Contracts"
                    href="Subpart_1203_7_T48_5053546.dita"
-                   props="Subpart 1203.7"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1203.7">
             <topicref navtitle="1203.703   Authority."
                       href="Section_1203_703_T48_505354611.dita"
                       props="1203.703"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1203.9 - Whistleblower Protections for Contractor Employees"
+         <topicref navtitle="Subpart 1203.9—Whistleblower Protections for Contractor Employees"
                    href="Subpart_1203_9_T48_5053547.dita"
-                   props="Subpart 1203.9"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1203.9">
             <topicref navtitle="1203.906   Remedies."
                       href="Section_1203_906_T48_505354711.dita"
                       props="1203.906"
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1204 - ADMINISTRATIVE AND INFORMATION MATTERS&#xA;&#xA;&#xA;"
+      <topicref navtitle="PART 1204—ADMINISTRATIVE AND INFORMATION MATTERS&#xA;&#xA;&#xA;"
                 href="Part_1204_T48_505355.dita"
-                props="PART 1204"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1204.1 - Contract Execution"
+                outputclass="Part"
+                props="Part 1204">
+         <topicref navtitle="Subpart 1204.1—Contract Execution"
                    href="Subpart_1204_1_T48_5053551.dita"
-                   props="Subpart 1204.1"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1204.1">
             <topicref navtitle="1204.103   Contract clause."
                       href="Section_1204_103_T48_505355111.dita"
                       props="1204.103"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1204.5 - Electronic Commerce in Contracting"
+         <topicref navtitle="Subpart 1204.5—Electronic Commerce in Contracting"
                    href="Subpart_1204_5_T48_5053552.dita"
-                   props="Subpart 1204.5"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1204.5">
             <topicref navtitle="1204.502   Policy."
                       href="Section_1204_502_T48_505355211.dita"
                       props="1204.502"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1204.8 - Government Contract Files"
+         <topicref navtitle="Subpart 1204.8—Government Contract Files"
                    href="Subpart_1204_8_T48_5053553.dita"
-                   props="Subpart 1204.8"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1204.8">
             <topicref navtitle="1204.801   General."
                       href="Section_1204_801_T48_505355311.dita"
                       props="1204.801"
@@ -287,19 +287,19 @@
                       props="1204.804-570"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1204.9 - Taxpayer Identification Number Information"
+         <topicref navtitle="Subpart 1204.9—Taxpayer Identification Number Information"
                    href="Subpart_1204_9_T48_5053554.dita"
-                   props="Subpart 1204.9"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1204.9">
             <topicref navtitle="1204.903   Reporting contract information to the IRS."
                       href="Section_1204_903_T48_505355411.dita"
                       props="1204.903"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1204.13 - Personal Identity Verification"
+         <topicref navtitle="Subpart 1204.13—Personal Identity Verification"
                    href="Subpart_1204_13_T48_5053555.dita"
-                   props="Subpart 1204.13"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1204.13">
             <topicref navtitle="1204.1301   Policy."
                       href="Section_1204_1301_T48_505355511.dita"
                       props="1204.1301"
@@ -309,10 +309,10 @@
                       props="1204.1303"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1204.17 - Service Contracts Inventory"
+         <topicref navtitle="Subpart 1204.17—Service Contracts Inventory"
                    href="Subpart_1204_17_T48_5053556.dita"
-                   props="Subpart 1204.17"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1204.17">
             <topicref navtitle="1204.1703   Reporting requirements."
                       href="Section_1204_1703_T48_505355611.dita"
                       props="1204.1703"
@@ -320,27 +320,27 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER B - ACQUISITION PLANNING&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER B—ACQUISITION PLANNING&#xA;&#xA;&#xA;"
              href="Subchapter_B_T48_50536.dita"
-             props="SUBCHAPTER B"
-             outputclass="SubChapter">
-      <topicref navtitle="PART 1205 - PUBLICIZING CONTRACT ACTIONS&#xA;"
+             outputclass="SubChapter"
+             props="SubChapter B">
+      <topicref navtitle="PART 1205—PUBLICIZING CONTRACT ACTIONS&#xA;"
                 href="Part_1205_T48_505366.dita"
-                props="PART 1205"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1205.1 - Dissemination of Information"
+                outputclass="Part"
+                props="Part 1205">
+         <topicref navtitle="Subpart 1205.1—Dissemination of Information"
                    href="Subpart_1205_1_T48_5053661.dita"
-                   props="Subpart 1205.1"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1205.1">
             <topicref navtitle="1205.101   Methods of disseminating information."
                       href="Section_1205_101_T48_505366111.dita"
                       props="1205.101"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1205.4 - Release of Information"
+         <topicref navtitle="Subpart 1205.4—Release of Information"
                    href="Subpart_1205_4_T48_5053662.dita"
-                   props="Subpart 1205.4"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1205.4">
             <topicref navtitle="1205.402   General public."
                       href="Section_1205_402_T48_505366211.dita"
                       props="1205.402"
@@ -350,33 +350,33 @@
                       props="1205.403"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1205.6 - Publicizing Multi-Agency Use Contracts"
+         <topicref navtitle="Subpart 1205.6—Publicizing Multi-Agency Use Contracts"
                    href="Subpart_1205_6_T48_5053663.dita"
-                   props="Subpart 1205.6"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1205.6—Publicizing Multi-Agency Use Contracts">
             <topicref navtitle="1205.601   Governmentwide database of contracts."
                       href="Section_1205_601_T48_505366311.dita"
                       props="1205.601"
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1206 - COMPETITION REQUIREMENTS&#xA;"
+      <topicref navtitle="PART 1206—COMPETITION REQUIREMENTS&#xA;"
                 href="Part_1206_T48_505367.dita"
-                props="PART 1206"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1206.2 - Full and Open Competition After Exclusion of Sources"
+                outputclass="Part"
+                props="Part 1206">
+         <topicref navtitle="Subpart 1206.2—Full and Open Competition After Exclusion of Sources"
                    href="Subpart_1206_2_T48_5053671.dita"
-                   props="Subpart 1206.2"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1206.2">
             <topicref navtitle="1206.202   Establishing or maintaining alternative sources."
                       href="Section_1206_202_T48_505367111.dita"
                       props="1206.202"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1206.3 - Other Than Full and Open Competition"
+         <topicref navtitle="Subpart 1206.3—Other Than Full and Open Competition"
                    href="Subpart_1206_3_T48_5053672.dita"
-                   props="Subpart 1206.3"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1206.3">
             <topicref navtitle="1206.302   Circumstances permitting other than full and open competition."
                       href="Section_1206_302_T48_505367211.dita"
                       props="1206.302"
@@ -390,38 +390,38 @@
                       props="1206.302-7"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1206.5 - Advocates for Competition"
+         <topicref navtitle="Subpart 1206.5—Advocates for Competition"
                    href="Subpart_1206_5_T48_5053673.dita"
-                   props="Subpart 1206.5"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1206.5">
             <topicref navtitle="1206.501   Requirement."
                       href="Section_1206_501_T48_505367311.dita"
                       props="1206.501"
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1207 - ACQUISITION PLANNING&#xA;"
+      <topicref navtitle="PART 1207—ACQUISITION PLANNING&#xA;"
                 href="Part_1207_T48_505368.dita"
-                props="PART 1207"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1207.3 - Contractor Versus Government Performance"
+                outputclass="Part"
+                props="Part 1207">
+         <topicref navtitle="Subpart 1207.3—Contractor Versus Government Performance"
                    href="Subpart_1207_3_T48_5053681.dita"
-                   props="Subpart 1207.3"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1207.3">
             <topicref navtitle="1207.305   Solicitation provisions and contract clause."
                       href="Section_1207_305_T48_505368111.dita"
                       props="1207.305"
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1209 - CONTRACTOR QUALIFICATIONS&#xA;"
+      <topicref navtitle="PART 1209—CONTRACTOR QUALIFICATIONS&#xA;"
                 href="Part_1209_T48_505369.dita"
-                props="PART 1209"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1209.4 - Debarment, Suspension, and Ineligibility"
+                outputclass="Part"
+                props="Part 1209">
+         <topicref navtitle="Subpart 1209.4—Debarment, Suspension, and Ineligibility"
                    href="Subpart_1209_4_T48_5053691.dita"
-                   props="Subpart 1209.4"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1209.4">
             <topicref navtitle="1209.400   Scope of subpart."
                       href="Section_1209_400_T48_505369111.dita"
                       props="1209.400"
@@ -479,10 +479,10 @@
                       props="1209.471"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1209.5 - Organizational and Consultant Conflicts of Interest"
+         <topicref navtitle="Subpart 1209.5—Organizational and Consultant Conflicts of Interest"
                    href="Subpart_1209_5_T48_5053692.dita"
-                   props="Subpart 1209.5"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1209.5">
             <topicref navtitle="1209.507   Solicitation provisions and contract clause."
                       href="Section_1209_507_T48_505369211.dita"
                       props="1209.507"
@@ -492,24 +492,24 @@
                       props="1209.507-270"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1209.6 - Contractor Team Arrangements"
+         <topicref navtitle="Subpart 1209.6—Contractor Team Arrangements"
                    href="Subpart_1209_6_T48_5053693.dita"
-                   props="Subpart 1209.6"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1209.6">
             <topicref navtitle="1209.602   General."
                       href="Section_1209_602_T48_505369311.dita"
                       props="1209.602"
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1211 - DESCRIBING AGENCY NEEDS&#xA;"
+      <topicref navtitle="PART 1211—DESCRIBING AGENCY NEEDS&#xA;"
                 href="Part_1211_T48_5053610.dita"
-                props="PART 1211"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1211.2 - Using and Maintaining Requirements Documents"
+                outputclass="Part"
+                props="Part 1211">
+         <topicref navtitle="Subpart 1211.2—Using and Maintaining Requirements Documents"
                    href="Subpart_1211_2_T48_50536101.dita"
-                   props="Subpart 1211.2"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1211.2">
             <topicref navtitle="1211.204   Solicitation provisions and contract clauses."
                       href="Section_1211_204_T48_5053610111.dita"
                       props="1211.204"
@@ -520,14 +520,14 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1212 - ACQUISITION OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES&#xA;"
+      <topicref navtitle="PART 1212—ACQUISITION OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES&#xA;"
                 href="Part_1212_T48_5053611.dita"
-                props="PART 1212"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1212.3 - Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Products and Commercial Services"
+                outputclass="Part"
+                props="Part 1212">
+         <topicref navtitle="Subpart 1212.3—Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Products and Commercial Services"
                    href="Subpart_1212_3_T48_50536111.dita"
-                   props="Subpart 1212.3"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1212.3">
             <topicref navtitle="1212.301   Solicitation provisions and contract clauses for the acquisition of commercial products and commercial services."
                       href="Section_1212_301_T48_5053611111.dita"
                       props="1212.301"
@@ -535,18 +535,18 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER C - CONTRACTING METHODS AND CONTRACT TYPES&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER C—CONTRACTING METHODS AND CONTRACT TYPES&#xA;&#xA;&#xA;"
              href="Subchapter_C_T48_50537.dita"
-             props="SUBCHAPTER C"
-             outputclass="SubChapter">
-      <topicref navtitle="PART 1213 - SIMPLIFIED ACQUISITION PROCEDURES&#xA;"
+             outputclass="SubChapter"
+             props="SubChapter C">
+      <topicref navtitle="PART 1213—SIMPLIFIED ACQUISITION PROCEDURES&#xA;"
                 href="Part_1213_T48_5053712.dita"
-                props="PART 1213"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1213.70 - Department of Transportation Procedures for Acquiring Training Services"
+                outputclass="Part"
+                props="Part 1213">
+         <topicref navtitle="Subpart 1213.70—Department of Transportation Procedures for Acquiring Training Services"
                    href="Subpart_1213_70_T48_50537121.dita"
-                   props="Subpart 1213.70"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1213.70">
             <topicref navtitle="1213.7000   Applicability."
                       href="Section_1213_7000_T48_5053712111.dita"
                       props="1213.7000"
@@ -559,16 +559,16 @@
       </topicref>
       <topicref navtitle="PART 1214 [RESERVED]&#xA;&#xA;&#xA;"
                 href="Part_1214_T48_5053713.dita"
-                props="PART 1214"
-                outputclass="Part"/>
-      <topicref navtitle="PART 1215 - CONTRACTING BY NEGOTIATION&#xA;"
+                outputclass="Part"
+                props="Part 1214"/>
+      <topicref navtitle="PART 1215—CONTRACTING BY NEGOTIATION&#xA;"
                 href="Part_1215_T48_5053714.dita"
-                props="PART 1215"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1215.4 - Contract Pricing"
+                outputclass="Part"
+                props="Part 1215">
+         <topicref navtitle="Subpart 1215.4—Contract Pricing"
                    href="Subpart_1215_4_T48_50537141.dita"
-                   props="Subpart 1215.4"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1215.4">
             <topicref navtitle="1215.404   Proposal analysis."
                       href="Section_1215_404_T48_5053714111.dita"
                       props="1215.404"
@@ -578,10 +578,10 @@
                       props="1215.404-470"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1215.6 - Unsolicited Proposals"
+         <topicref navtitle="Subpart 1215.6—Unsolicited Proposals"
                    href="Subpart_1215_6_T48_50537142.dita"
-                   props="Subpart 1215.6"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1215.6">
             <topicref navtitle="1215.603   General."
                       href="Section_1215_603_T48_5053714211.dita"
                       props="1215.603"
@@ -596,14 +596,14 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1216 - TYPES OF CONTRACTS&#xA;"
+      <topicref navtitle="PART 1216—TYPES OF CONTRACTS&#xA;"
                 href="Part_1216_T48_5053715.dita"
-                props="PART 1216"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1216.2 - Fixed-Price Contracts"
+                outputclass="Part"
+                props="Part 1216">
+         <topicref navtitle="Subpart 1216.2—Fixed-Price Contracts"
                    href="Subpart_1216_2_T48_50537151.dita"
-                   props="Subpart 1216.2"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1216.2—Fixed-Price Contracts">
             <topicref navtitle="1216.203   Fixed-price contracts with economic price adjustment."
                       href="Section_1216_203_T48_5053715111.dita"
                       props="1216.203"
@@ -617,28 +617,28 @@
                       props="1216.203-470"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1216.4 - Incentive Contracts"
+         <topicref navtitle="Subpart 1216.4—Incentive Contracts"
                    href="Subpart_1216_4_T48_50537152.dita"
-                   props="Subpart 1216.4"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1216.4">
             <topicref navtitle="1216.406-70   DOT contract clauses."
                       href="Section_1216_406_70_T48_5053715211.dita"
                       props="1216.406-70"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1216.5 - Indefinite-Delivery Contracts"
+         <topicref navtitle="Subpart 1216.5—Indefinite-Delivery Contracts"
                    href="Subpart_1216_5_T48_50537153.dita"
-                   props="Subpart 1216.5"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1216.5—Indefinite-Delivery Contracts">
             <topicref navtitle="1216.505   Ordering."
                       href="Section_1216_505_T48_5053715311.dita"
                       props="1216.505"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1216.6 - Time-and-Materials, Labor-Hour, and Letter Contracts"
+         <topicref navtitle="Subpart 1216.6—Time-and-Materials, Labor-Hour, and Letter Contracts"
                    href="Subpart_1216_6_T48_50537154.dita"
-                   props="Subpart 1216.6"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1216.6—Time-and-Materials, Labor-Hour, and Letter Contracts">
             <topicref navtitle="1216.603   Letter contracts."
                       href="Section_1216_603_T48_5053715411.dita"
                       props="1216.603"
@@ -649,14 +649,14 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1217 - SPECIAL CONTRACTING METHODS&#xA;"
+      <topicref navtitle="PART 1217—SPECIAL CONTRACTING METHODS&#xA;"
                 href="Part_1217_T48_5053716.dita"
-                props="PART 1217"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1217.70 - Fixed-Price Contracts for Vessel Repair, Alteration, or Conversion"
+                outputclass="Part"
+                props="Part 1217">
+         <topicref navtitle="Subpart 1217.70—Fixed-Price Contracts for Vessel Repair, Alteration, or Conversion"
                    href="Subpart_1217_70_T48_50537161.dita"
-                   props="Subpart 1217.70"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1217.70—Fixed-Price Contracts for Vessel Repair, Alteration, or Conversion">
             <topicref navtitle="1217.7000   Definition."
                       href="Section_1217_7000_T48_5053716111.dita"
                       props="1217.7000"
@@ -668,18 +668,18 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER D - SOCIOECONOMIC PROGRAMS&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER D—SOCIOECONOMIC PROGRAMS&#xA;&#xA;&#xA;"
              href="Subchapter_D_T48_50538.dita"
-             props="SUBCHAPTER D"
-             outputclass="SubChapter">
-      <topicref navtitle="PART 1219 - SMALL BUSINESS PROGRAMS&#xA;"
+             outputclass="SubChapter"
+             props="SubChapter D">
+      <topicref navtitle="PART 1219—SMALL BUSINESS PROGRAMS&#xA;"
                 href="Part_1219_T48_5053817.dita"
-                props="PART 1219"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1219.2 - Policies"
+                outputclass="Part"
+                props="Part 1219">
+         <topicref navtitle="Subpart 1219.2—Policies"
                    href="Subpart_1219_2_T48_50538171.dita"
-                   props="Subpart 1219.2"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1219.2">
             <topicref navtitle="1219.201   General policy."
                       href="Section_1219_201_T48_5053817111.dita"
                       props="1219.201"
@@ -697,19 +697,19 @@
                       props="1219.202-70"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1219.4 - Cooperation With the Small Business Administration"
+         <topicref navtitle="Subpart 1219.4—Cooperation With the Small Business Administration"
                    href="Subpart_1219_4_T48_50538172.dita"
-                   props="Subpart 1219.4"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1219.4">
             <topicref navtitle="1219.401   General."
                       href="Section_1219_401_T48_5053817211.dita"
                       props="1219.401"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1219.5 - Set-Asides for Small Business"
+         <topicref navtitle="Subpart 1219.5—Set-Asides for Small Business"
                    href="Subpart_1219_5_T48_50538173.dita"
-                   props="Subpart 1219.5"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1219.5—Set-Asides for Small Business">
             <topicref navtitle="1219.501   General."
                       href="Section_1219_501_T48_5053817311.dita"
                       props="1219.501"
@@ -723,10 +723,10 @@
                       props="1219.502-9"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1219.7 - The Small Business Subcontracting Program"
+         <topicref navtitle="Subpart 1219.7—The Small Business Subcontracting Program"
                    href="Subpart_1219_7_T48_50538174.dita"
-                   props="Subpart 1219.7"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1219.7">
             <topicref navtitle="1219.705   Responsibilities of the contracting officer under the subcontracting assistance program."
                       href="Section_1219_705_T48_5053817411.dita"
                       props="1219.705"
@@ -736,10 +736,10 @@
                       props="1219.705-6"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1219.8 - Contracting With the Small Business Administration (the 8(a) Program)"
+         <topicref navtitle="Subpart 1219.8—Contracting With the Small Business Administration (the 8(a) Program)"
                    href="Subpart_1219_8_T48_50538175.dita"
-                   props="Subpart 1219.8"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1219.8">
             <topicref navtitle="1219.800   General."
                       href="Section_1219_800_T48_5053817511.dita"
                       props="1219.800"
@@ -749,24 +749,24 @@
                       props="1219.815"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1219.70 - DOT Mentor-Protégé Program"
+         <topicref navtitle="Subpart 1219.70—DOT Mentor-Protégé Program"
                    href="Subpart_1219_70_T48_50538176.dita"
-                   props="Subpart 1219.70"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1219.70—DOT Mentor-Protégé Program">
             <topicref navtitle="1219.7000   General."
                       href="Section_1219_7000_T48_5053817611.dita"
                       props="1219.7000"
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1222 - APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS&#xA;"
+      <topicref navtitle="PART 1222—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS&#xA;"
                 href="Part_1222_T48_5053818.dita"
-                props="PART 1222"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1222.1 - Basic Labor Policies"
+                outputclass="Part"
+                props="Part 1222">
+         <topicref navtitle="Subpart 1222.1—Basic Labor Policies"
                    href="Subpart_1222_1_T48_50538181.dita"
-                   props="Subpart 1222.1"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1222.1">
             <topicref navtitle="1222.101   Labor relations."
                       href="Section_1222_101_T48_5053818111.dita"
                       props="1222.101"
@@ -780,10 +780,10 @@
                       props="1222.101-71"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1222.8 - Equal Employment Opportunity"
+         <topicref navtitle="Subpart 1222.8—Equal Employment Opportunity"
                    href="Subpart_1222_8_T48_50538182.dita"
-                   props="Subpart 1222.8"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1222.8">
             <topicref navtitle="1222.808   Complaints."
                       href="Section_1222_808_T48_5053818211.dita"
                       props="1222.808"
@@ -794,37 +794,37 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1223 - ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE&#xA;"
+      <topicref navtitle="PART 1223—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG–FREE WORKPLACE&#xA;"
                 href="Part_1223_T48_5053819.dita"
-                props="PART 1223"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1223.3 - Hazardous Material Identification and Material Safety Data"
+                outputclass="Part"
+                props="Part 1223">
+         <topicref navtitle="Subpart 1223.3—Hazardous Material Identification and Material Safety Data"
                    href="Subpart_1223_3_T48_50538191.dita"
-                   props="Subpart 1223.3"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1223.3">
             <topicref navtitle="1223.303   Contract clause."
                       href="Section_1223_303_T48_5053819111.dita"
                       props="1223.303"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1223.70 - Safety Requirements for Selected DOT Contracts"
+         <topicref navtitle="Subpart 1223.70—Safety Requirements for Selected DOT Contracts"
                    href="Subpart_1223_70_T48_50538192.dita"
-                   props="Subpart 1223.70"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1223.70">
             <topicref navtitle="1223.7000   Contract clauses."
                       href="Section_1223_7000_T48_5053819211.dita"
                       props="1223.7000"
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1224 - PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION&#xA;"
+      <topicref navtitle="PART 1224—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION&#xA;"
                 href="Part_1224_T48_5053820.dita"
-                props="PART 1224"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1224.1 - Protection of Individual Privacy"
+                outputclass="Part"
+                props="Part 1224">
+         <topicref navtitle="Subpart 1224.1—Protection of Individual Privacy"
                    href="Subpart_1224_1_T48_50538201.dita"
-                   props="Subpart 1224.1"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1224.1">
             <topicref navtitle="1224.102-70   General."
                       href="Section_1224_102_70_T48_5053820111.dita"
                       props="1224.102-70"
@@ -834,10 +834,10 @@
                       props="1224.103"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1224.2 - Freedom of Information Act"
+         <topicref navtitle="Subpart 1224.2—Freedom of Information Act"
                    href="Subpart_1224_2_T48_50538202.dita"
-                   props="Subpart 1224.2"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1224.2">
             <topicref navtitle="1224.203   Policy."
                       href="Section_1224_203_T48_5053820211.dita"
                       props="1224.203"
@@ -845,18 +845,18 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER E - GENERAL CONTRACTING REQUIREMENTS&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER E—GENERAL CONTRACTING REQUIREMENTS&#xA;&#xA;&#xA;"
              href="Subchapter_E_T48_50539.dita"
-             props="SUBCHAPTER E"
-             outputclass="SubChapter">
-      <topicref navtitle="PART 1227 - PATENTS, DATA, AND COPYRIGHTS&#xA;"
+             outputclass="SubChapter"
+             props="SubChapter E">
+      <topicref navtitle="PART 1227—PATENTS, DATA, AND COPYRIGHTS&#xA;"
                 href="Part_1227_T48_5053921.dita"
-                props="PART 1227"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1227.3 - Patent Rights Under Government Contracts"
+                outputclass="Part"
+                props="Part 1227">
+         <topicref navtitle="Subpart 1227.3—Patent Rights Under Government Contracts"
                    href="Subpart_1227_3_T48_50539211.dita"
-                   props="Subpart 1227.3"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1227.3">
             <topicref navtitle="1227.304   Procedures."
                       href="Section_1227_304_T48_5053921111.dita"
                       props="1227.304"
@@ -875,14 +875,14 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1228 - BONDS AND INSURANCE&#xA;"
+      <topicref navtitle="PART 1228—BONDS AND INSURANCE&#xA;"
                 href="Part_1228_T48_5053922.dita"
-                props="PART 1228"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1228.1 - Bonds and Other Financial Protections"
+                outputclass="Part"
+                props="Part 1228">
+         <topicref navtitle="Subpart 1228.1—Bonds and Other Financial Protections"
                    href="Subpart_1228_1_T48_50539221.dita"
-                   props="Subpart 1228.1"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1228.1">
             <topicref navtitle="1228.106   Administration."
                       href="Section_1228_106_T48_5053922111.dita"
                       props="1228.106"
@@ -912,10 +912,10 @@
                       props="1228.106-7101"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1228.3 - Insurance"
+         <topicref navtitle="Subpart 1228.3—Insurance"
                    href="Subpart_1228_3_T48_50539222.dita"
-                   props="Subpart 1228.3"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1228.3">
             <topicref navtitle="1228.306   Insurance under fixed-price contracts."
                       href="Section_1228_306_T48_5053922211.dita"
                       props="1228.306"
@@ -934,32 +934,32 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1231 - CONTRACT COST PRINCIPLES AND PROCEDURES&#xA;"
+      <topicref navtitle="PART 1231—CONTRACT COST PRINCIPLES AND PROCEDURES&#xA;"
                 href="Part_1231_T48_5053923.dita"
-                props="PART 1231"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1231.2 - Contracts With Commercial Organizations"
+                outputclass="Part"
+                props="Part 1231">
+         <topicref navtitle="Subpart 1231.2—Contracts With Commercial Organizations"
                    href="Subpart_1231_2_T48_50539231.dita"
-                   props="Subpart 1231.2"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1231.2">
             <topicref navtitle="1231.205   Selected costs."
                       href="Section_1231_205_T48_5053923111.dita"
                       props="1231.205"
                       outputclass="Section"/>
-            <topicref navtitle="1231.205-3270   Precontract costs - incurrence of costs."
+            <topicref navtitle="1231.205-3270   Precontract costs—incurrence of costs."
                       href="Section_1231_205_3270_T48_5053923112.dita"
                       props="1231.205-3270"
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1232 - CONTRACT FINANCING&#xA;"
+      <topicref navtitle="PART 1232—CONTRACT FINANCING&#xA;"
                 href="Part_1232_T48_5053924.dita"
-                props="PART 1232"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1232.7 - Contract Funding"
+                outputclass="Part"
+                props="Part 1232">
+         <topicref navtitle="Subpart 1232.7—Contract Funding"
                    href="Subpart_1232_7_T48_50539241.dita"
-                   props="Subpart 1232.7"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1232.7">
             <topicref navtitle="1232.770   Incremental funding during a Continuing Resolution."
                       href="Section_1232_770_T48_5053924111.dita"
                       props="1232.770"
@@ -993,19 +993,19 @@
                       props="1232.770-7"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1232.9 - Prompt Payment"
+         <topicref navtitle="Subpart 1232.9—Prompt Payment"
                    href="Subpart_1232_9_T48_50539242.dita"
-                   props="Subpart 1232.9"
-                   outputclass="SubPart">
-            <topicref navtitle="1232.905-70   Payment documentation and process - form of invoice."
+                   outputclass="SubPart"
+                   props="Subpart 1232.9">
+            <topicref navtitle="1232.905-70   Payment documentation and process—form of invoice."
                       href="Section_1232_905_70_T48_5053924211.dita"
                       props="1232.905-70"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1232.70 - Electronic Invoicing Requirements"
+         <topicref navtitle="Subpart 1232.70—Electronic Invoicing Requirements"
                    href="Subpart_1232_70_T48_50539243.dita"
-                   props="Subpart 1232.70"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1232.70">
             <topicref navtitle="1232.7000   Scope of subpart."
                       href="Section_1232_7000_T48_5053924311.dita"
                       props="1232.7000"
@@ -1014,7 +1014,7 @@
                       href="Section_1232_7001_T48_5053924312.dita"
                       props="1232.7001"
                       outputclass="Section"/>
-            <topicref navtitle="1232.7002   Electronic payment requests - invoices."
+            <topicref navtitle="1232.7002   Electronic payment requests—invoices."
                       href="Section_1232_7002_T48_5053924313.dita"
                       props="1232.7002"
                       outputclass="Section"/>
@@ -1036,14 +1036,14 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1233 - PROTESTS, DISPUTES, AND APPEALS&#xA;"
+      <topicref navtitle="PART 1233—PROTESTS, DISPUTES, AND APPEALS&#xA;"
                 href="Part_1233_T48_5053925.dita"
-                props="PART 1233"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1233.1 - Protests"
+                outputclass="Part"
+                props="Part 1233">
+         <topicref navtitle="Subpart 1233.1—Protests"
                    href="Subpart_1233_1_T48_50539251.dita"
-                   props="Subpart 1233.1"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1233.1">
             <topicref navtitle="1233.103   Protests to the agency."
                       href="Section_1233_103_T48_5053925111.dita"
                       props="1233.103"
@@ -1053,10 +1053,10 @@
                       props="1233.104"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1233.2 - Disputes and Appeals"
+         <topicref navtitle="Subpart 1233.2—Disputes and Appeals"
                    href="Subpart_1233_2_T48_50539252.dita"
-                   props="Subpart 1233.2"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1233.2">
             <topicref navtitle="1233.211   Contracting officer's decision."
                       href="Section_1233_211_T48_5053925211.dita"
                       props="1233.211"
@@ -1068,18 +1068,18 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER F - SPECIAL CATEGORIES OF CONTRACTING&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER F—SPECIAL CATEGORIES OF CONTRACTING&#xA;&#xA;&#xA;"
              href="Subchapter_F_T48_50540.dita"
-             props="SUBCHAPTER F"
-             outputclass="SubChapter">
+             outputclass="SubChapter"
+             props="SubChapter F">
       <topicref navtitle="PART 1234 [RESERVED]&#xA;&#xA;&#xA;"
                 href="Part_1234_T48_5054026.dita"
-                props="PART 1234"
-                outputclass="Part"/>
-      <topicref navtitle="PART 1235 - RESEARCH AND DEVELOPMENT CONTRACTING&#xA;"
+                outputclass="Part"
+                props="Part 1234"/>
+      <topicref navtitle="PART 1235—RESEARCH AND DEVELOPMENT CONTRACTING&#xA;"
                 href="Part_1235_T48_5054027.dita"
-                props="PART 1235"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1235">
          <topicref navtitle="1235.003   Policy."
                    href="Section_1235_003_T48_5054027011.dita"
                    props="1235.003"
@@ -1101,37 +1101,37 @@
                    props="1235.070-1"
                    outputclass="Section"/>
       </topicref>
-      <topicref navtitle="PART 1236 - CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS&#xA;"
+      <topicref navtitle="PART 1236—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS&#xA;"
                 href="Part_1236_T48_5054028.dita"
-                props="PART 1236"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1236.5 - Contract Clauses"
+                outputclass="Part"
+                props="PART 1236—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS">
+         <topicref navtitle="Subpart 1236.5—Contract Clauses"
                    href="Subpart_1236_5_T48_50540281.dita"
-                   props="Subpart 1236.5"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1236.5">
             <topicref navtitle="1236.570   Special precautions for work at operating airports."
                       href="Section_1236_570_T48_5054028111.dita"
                       props="1236.570"
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1237 - SERVICE CONTRACTING&#xA;"
+      <topicref navtitle="PART 1237—SERVICE CONTRACTING&#xA;"
                 href="Part_1237_T48_5054029.dita"
-                props="PART 1237"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1237.1 - Service Contracts - General"
+                outputclass="Part"
+                props="Part 1237">
+         <topicref navtitle="Subpart 1237.1—Service Contracts—General"
                    href="Subpart_1237_1_T48_50540291.dita"
-                   props="Subpart 1237.1"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1237.1">
             <topicref navtitle="1237.110-70   Contract clauses."
                       href="Section_1237_110_70_T48_5054029111.dita"
                       props="1237.110-70"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1237.70 - Procedures for Acquiring Training Services"
+         <topicref navtitle="Subpart 1237.70—Procedures for Acquiring Training Services"
                    href="Subpart_1237_70_T48_50540292.dita"
-                   props="Subpart 1237.70"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1237.70">
             <topicref navtitle="1237.7000   Policy."
                       href="Section_1237_7000_T48_5054029211.dita"
                       props="1237.7000"
@@ -1150,10 +1150,10 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1239 - ACQUISITION OF INFORMATION TECHNOLOGY&#xA;"
+      <topicref navtitle="PART 1239—ACQUISITION OF INFORMATION TECHNOLOGY&#xA;"
                 href="Part_1239_T48_5054030.dita"
-                props="PART 1239"
-                outputclass="Part">
+                outputclass="Part"
+                props="Part 1239">
          <topicref navtitle="1239.000   Scope of part."
                    href="Section_1239_000_T48_5054030011.dita"
                    props="1239.000"
@@ -1162,15 +1162,15 @@
                    href="Section_1239_002_T48_5054030012.dita"
                    props="1239.002"
                    outputclass="Section"/>
-         <topicref navtitle="Subpart 1239.1 - General"
+         <topicref navtitle="Subpart 1239.1—General"
                    href="Subpart_1239_1_T48_50540301.dita"
-                   props="Subpart 1239.1"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1239.1">
             <topicref navtitle="1239.101   Policy."
                       href="Section_1239_101_T48_5054030111.dita"
                       props="1239.101"
                       outputclass="Section"/>
-            <topicref navtitle="1239.101-70   Policy - software management and development."
+            <topicref navtitle="1239.101-70   Policy—software management and development."
                       href="Section_1239_101_70_T48_5054030112.dita"
                       props="1239.101-70"
                       outputclass="Section"/>
@@ -1191,10 +1191,10 @@
                       props="1239.106-70"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1239.2 - Information and Communication Technology"
+         <topicref navtitle="Subpart 1239.2—Information and Communication Technology"
                    href="Subpart_1239_2_T48_50540302.dita"
-                   props="Subpart 1239.2"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1239.2">
             <topicref navtitle="1239.201   Scope of subpart."
                       href="Section_1239_201_T48_5054030211.dita"
                       props="1239.201"
@@ -1203,15 +1203,15 @@
                       href="Section_1239_203_T48_5054030212.dita"
                       props="1239.203"
                       outputclass="Section"/>
-            <topicref navtitle="1239.203-70   Information and communication technology accessibility standards - contract clause and provision."
+            <topicref navtitle="1239.203-70   Information and communication technology accessibility standards—contract clause and provision."
                       href="Section_1239_203_70_T48_5054030213.dita"
                       props="1239.203-70"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1239.70 - Information Security and Incident Response Reporting"
+         <topicref navtitle="Subpart 1239.70—Information Security and Incident Response Reporting"
                    href="Subpart_1239_70_T48_50540303.dita"
-                   props="Subpart 1239.70"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1239.70">
             <topicref navtitle="1239.7000   Scope of subpart."
                       href="Section_1239_7000_T48_5054030311.dita"
                       props="1239.7000"
@@ -1229,10 +1229,10 @@
                       props="1239.7003"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1239.71 - Protection of Data About Individuals"
+         <topicref navtitle="Subpart 1239.71—Protection of Data About Individuals"
                    href="Subpart_1239_71_T48_50540304.dita"
-                   props="Subpart 1239.71"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1239.71">
             <topicref navtitle="1239.7100   Scope of subpart."
                       href="Section_1239_7100_T48_5054030411.dita"
                       props="1239.7100"
@@ -1254,10 +1254,10 @@
                       props="1239.7104"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1239.72 - Cloud Computing"
+         <topicref navtitle="Subpart 1239.72—Cloud Computing"
                    href="Subpart_1239_72_T48_50540305.dita"
-                   props="Subpart 1239.72"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1239.72">
             <topicref navtitle="1239.7200   Scope of subpart."
                       href="Section_1239_7200_T48_5054030511.dita"
                       props="1239.7200"
@@ -1279,10 +1279,10 @@
                       props="1239.7204"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1239.73 - Technology Modernization and Upgrades/Refreshment"
+         <topicref navtitle="Subpart 1239.73—Technology Modernization and Upgrades/Refreshment"
                    href="Subpart_1239_73_T48_50540306.dita"
-                   props="Subpart 1239.73"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1239.73">
             <topicref navtitle="1239.7300   Scope of subpart."
                       href="Section_1239_7300_T48_5054030611.dita"
                       props="1239.7300"
@@ -1300,10 +1300,10 @@
                       props="1239.7303"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1239.74 - Records Management"
+         <topicref navtitle="Subpart 1239.74—Records Management"
                    href="Subpart_1239_74_T48_50540307.dita"
-                   props="Subpart 1239.74"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1239.74">
             <topicref navtitle="1239.7400   Scope of subpart."
                       href="Section_1239_7400_T48_5054030711.dita"
                       props="1239.7400"
@@ -1324,21 +1324,21 @@
       </topicref>
       <topicref navtitle="PART 1241 [RESERVED]&#xA;&#xA;&#xA;"
                 href="Part_1241_T48_5054031.dita"
-                props="PART 1241"
-                outputclass="Part"/>
+                outputclass="Part"
+                props="Part 1241"/>
    </topicref>
-   <topicref navtitle="SUBCHAPTER G - CONTRACT MANAGEMENT&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER G—CONTRACT MANAGEMENT&#xA;&#xA;&#xA;"
              href="Subchapter_G_T48_50541.dita"
-             props="SUBCHAPTER G"
-             outputclass="SubChapter">
-      <topicref navtitle="PART 1242 - CONTRACT ADMINISTRATION AND AUDIT SERVICES&#xA;"
+             outputclass="SubChapter"
+             props="SubChapter G">
+      <topicref navtitle="PART 1242—CONTRACT ADMINISTRATION AND AUDIT SERVICES&#xA;"
                 href="Part_1242_T48_5054132.dita"
-                props="PART 1242"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1242.1 - Contract Audit Services"
+                outputclass="Part"
+                props="Part 1242">
+         <topicref navtitle="Subpart 1242.1—Contract Audit Services"
                    href="Subpart_1242_1_T48_50541321.dita"
-                   props="Subpart 1242.1"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1242.1">
             <topicref navtitle="1242.101   Contract audit responsibilities."
                       href="Section_1242_101_T48_5054132111.dita"
                       props="1242.101"
@@ -1352,28 +1352,28 @@
                       props="1242.170"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1242.2 - Contract Administration Services"
+         <topicref navtitle="Subpart 1242.2—Contract Administration Services"
                    href="Subpart_1242_2_T48_50541322.dita"
-                   props="Subpart 1242.2"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1242.2">
             <topicref navtitle="1242.270   Contract clauses."
                       href="Section_1242_270_T48_5054132211.dita"
                       props="1242.270"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1242.3 - Contract Administration Office Functions"
+         <topicref navtitle="Subpart 1242.3—Contract Administration Office Functions"
                    href="Subpart_1242_3_T48_50541323.dita"
-                   props="Subpart 1242.3"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1242.3">
             <topicref navtitle="1242.302   Contract administration functions."
                       href="Section_1242_302_T48_5054132311.dita"
                       props="1242.302"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1242.15 - Contractor Performance Information"
+         <topicref navtitle="Subpart 1242.15—Contractor Performance Information"
                    href="Subpart_1242_15_T48_50541324.dita"
-                   props="Subpart 1242.15"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1242.15">
             <topicref navtitle="1242.1503   Procedures."
                       href="Section_1242_1503_T48_5054132411.dita"
                       props="1242.1503"
@@ -1382,16 +1382,16 @@
       </topicref>
       <topicref navtitle="PART 1245 [RESERVED]&#xA;&#xA;&#xA;"
                 href="Part_1245_T48_5054133.dita"
-                props="PART 1245"
-                outputclass="Part"/>
-      <topicref navtitle="PART 1246 - QUALITY ASSURANCE&#xA;"
+                outputclass="Part"
+                props="Part 1245"/>
+      <topicref navtitle="PART 1246—QUALITY ASSURANCE&#xA;"
                 href="Part_1246_T48_5054134.dita"
-                props="PART 1246"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1246.1 - General"
+                outputclass="Part"
+                props="Part 1246">
+         <topicref navtitle="Subpart 1246.1—General"
                    href="Subpart_1246_1_T48_50541341.dita"
-                   props="Subpart 1246.1"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1246.1">
             <topicref navtitle="1246.101   Definitions."
                       href="Section_1246_101_T48_5054134111.dita"
                       props="1246.101"
@@ -1401,28 +1401,28 @@
                       props="1246.101-70"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1246.7 - Warranties"
+         <topicref navtitle="Subpart 1246.7—Warranties"
                    href="Subpart_1246_7_T48_50541342.dita"
-                   props="Subpart 1246.7"
-                   outputclass="SubPart">
-            <topicref navtitle="1246.705-70   Limitations - restrictions."
+                   outputclass="SubPart"
+                   props="Subpart 1246.7">
+            <topicref navtitle="1246.705-70   Limitations—restrictions."
                       href="Section_1246_705_70_T48_5054134211.dita"
                       props="1246.705-70"
                       outputclass="Section"/>
-            <topicref navtitle="1246.706-70   Warranty terms and conditions - requirements."
+            <topicref navtitle="1246.706-70   Warranty terms and conditions—requirements."
                       href="Section_1246_706_70_T48_5054134212.dita"
                       props="1246.706-70"
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1247 - TRANSPORTATION&#xA;"
+      <topicref navtitle="PART 1247—TRANSPORTATION&#xA;"
                 href="Part_1247_T48_5054135.dita"
-                props="PART 1247"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1247.5 - Ocean Transportation by U.S.-Flag Vessels"
+                outputclass="Part"
+                props="Part 1247">
+         <topicref navtitle="Subpart 1247.5—Ocean Transportation by U.S.-Flag Vessels"
                    href="Subpart_1247_5_T48_50541351.dita"
-                   props="Subpart 1247.5"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1247.5—Ocean Transportation by U.S.-Flag Vessels">
             <topicref navtitle="1247.506   Procedures."
                       href="Section_1247_506_T48_5054135111.dita"
                       props="1247.506"
@@ -1430,27 +1430,27 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER H - CLAUSES AND FORMS&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER H—CLAUSES AND FORMS&#xA;&#xA;&#xA;"
              href="Subchapter_H_T48_50542.dita"
-             props="SUBCHAPTER H"
-             outputclass="SubChapter">
-      <topicref navtitle="PART 1252 - SOLICITATION PROVISIONS AND C&#xA;&#xA;ONTRACT CLAUSES&#xA;"
+             outputclass="SubChapter"
+             props="SubChapter H">
+      <topicref navtitle="PART 1252—SOLICITATION PROVISIONS AND C&#xA;&#xA;ONTRACT CLAUSES&#xA;"
                 href="Part_1252_T48_5054236.dita"
-                props="PART 1252"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1252.1 - Instructions for Using Provisions and Clauses"
+                outputclass="Part"
+                props="Part 1252">
+         <topicref navtitle="Subpart 1252.1—Instructions for Using Provisions and Clauses"
                    href="Subpart_1252_1_T48_50542361.dita"
-                   props="Subpart 1252.1"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1252.1">
             <topicref navtitle="1252.101-70   Using this part."
                       href="Section_1252_101_70_T48_5054236111.dita"
                       props="1252.101-70"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1252.2 - Text of Provisions and Clauses"
+         <topicref navtitle="Subpart 1252.2—Text of Provisions and Clauses"
                    href="Subpart_1252_2_T48_50542362.dita"
-                   props="Subpart 1252.2"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1252.2">
             <topicref navtitle="1252.201-70   Contracting Officer's Representative."
                       href="Section_1252_201_70_T48_5054236211.dita"
                       props="1252.201-70"
@@ -1547,7 +1547,7 @@
                       href="Section_1252_222_72_T48_50542362124.dita"
                       props="1252.222-72"
                       outputclass="Section"/>
-            <topicref navtitle="1252.223-70   Removal or Disposal of Hazardous Substances - Applicable Licenses and Permits."
+            <topicref navtitle="1252.223-70   Removal or Disposal of Hazardous Substances—Applicable Licenses and Permits."
                       href="Section_1252_223_70_T48_50542362125.dita"
                       props="1252.223-70"
                       outputclass="Section"/>
@@ -1683,11 +1683,11 @@
                       href="Section_1252_239_84_T48_50542362158.dita"
                       props="1252.239-84"
                       outputclass="Section"/>
-            <topicref navtitle="1252.239-85   Personnel Screening - Background Investigations."
+            <topicref navtitle="1252.239-85   Personnel Screening—Background Investigations."
                       href="Section_1252_239_85_T48_50542362159.dita"
                       props="1252.239-85"
                       outputclass="Section"/>
-            <topicref navtitle="1252.239-86   Boundary Protection - Trusted Internet Connections."
+            <topicref navtitle="1252.239-86   Boundary Protection—Trusted Internet Connections."
                       href="Section_1252_239_86_T48_50542362160.dita"
                       props="1252.239-86"
                       outputclass="Section"/>
@@ -1719,7 +1719,7 @@
                       href="Section_1252_239_93_T48_50542362167.dita"
                       props="1252.239-93"
                       outputclass="Section"/>
-            <topicref navtitle="1252.242-70   Dissemination of Information - Educational Institutions."
+            <topicref navtitle="1252.242-70   Dissemination of Information—Educational Institutions."
                       href="Section_1252_242_70_T48_50542362168.dita"
                       props="1252.242-70"
                       outputclass="Section"/>
@@ -1736,25 +1736,25 @@
                       props="1252.242-74"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1252.3 - Provision and Clause Matrix"
+         <topicref navtitle="Subpart 1252.3—Provision and Clause Matrix"
                    href="Subpart_1252_3_T48_50542363.dita"
-                   props="Subpart 1252.3"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1252.3">
             <topicref navtitle="1252.301   Solicitation provisions and contract clauses (matrix)."
                       href="Section_1252_301_T48_5054236311.dita"
                       props="1252.301"
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 1253 - FORMS&#xA;"
+      <topicref navtitle="PART 1253—FORMS&#xA;"
                 href="Part_1253_T48_5054237.dita"
-                props="PART 1253"
-                outputclass="Part">
-         <topicref navtitle="Subpart 1253.2 - Prescription of Forms"
+                outputclass="Part"
+                props="Part 1253">
+         <topicref navtitle="Subpart 1253.2—Prescription of Forms"
                    href="Subpart_1253_2_T48_50542371.dita"
-                   props="Subpart 1253.2"
-                   outputclass="SubPart">
-            <topicref navtitle="1253.204-70   Administrative matters - agency specified forms."
+                   outputclass="SubPart"
+                   props="Subpart 1253.2">
+            <topicref navtitle="1253.204-70   Administrative matters—agency specified forms."
                       href="Section_1253_204_70_T48_5054237111.dita"
                       props="1253.204-70"
                       outputclass="Section"/>
@@ -1767,19 +1767,19 @@
                       props="1253.227-3"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 1253.3 - Forms Used in Acquisitions"
+         <topicref navtitle="Subpart 1253.3—Forms Used in Acquisitions"
                    href="Subpart_1253_3_T48_50542372.dita"
-                   props="Subpart 1253.3"
-                   outputclass="SubPart">
+                   outputclass="SubPart"
+                   props="Subpart 1253.3">
             <topicref navtitle="1253.300-70   DOT agency forms."
                       href="Section_1253_300_70_T48_5054237211.dita"
                       props="1253.300-70"
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PARTS 1254-1299 [RESERVED]&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;"
+      <topicref navtitle="PARTS 1254–1299 [RESERVED]&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;"
                 href="Part_1254_1299_T48_5054238.dita"
-                props="PARTS 1254-1299 [RESERVED]"
-                outputclass="Part"/>
+                outputclass="Part"
+                props="Part 1254–1299"/>
    </topicref>
 </map>

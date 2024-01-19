@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_1205_T48_505366">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 1205</ph> - PUBLICIZING CONTRACT ACTIONS</title>
+      <title class="- topic/title ">PART 1205—PUBLICIZING CONTRACT ACTIONS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1205_1_T48_5053661.dita#Subpart_1205_1_T48_5053661">Subpart 1205.1 - Dissemination of Information</xref>
+                        href="Subpart_1205_1_T48_5053661.dita#Subpart_1205_1_T48_5053661">Subpart 1205.1—Dissemination of Information</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -36,7 +36,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1205_4_T48_5053662.dita#Subpart_1205_4_T48_5053662">Subpart 1205.4 - Release of Information</xref>
+                        href="Subpart_1205_4_T48_5053662.dita#Subpart_1205_4_T48_5053662">Subpart 1205.4—Release of Information</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -56,7 +56,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1205_6_T48_5053663.dita#Subpart_1205_6_T48_5053663">Subpart 1205.6 - Publicizing Multi-Agency Use Contracts</xref>
+                        href="Subpart_1205_6_T48_5053663.dita#Subpart_1205_6_T48_5053663">Subpart 1205.6—Publicizing Multi-Agency Use Contracts</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

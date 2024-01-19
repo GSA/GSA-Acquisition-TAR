@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_1215_T48_5053714">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 1215</ph> - CONTRACTING BY NEGOTIATION</title>
+      <title class="- topic/title ">PART 1215—CONTRACTING BY NEGOTIATION
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -24,7 +24,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1215_4_T48_50537141.dita#Subpart_1215_4_T48_50537141">Subpart 1215.4 - Contract Pricing</xref>
+                        href="Subpart_1215_4_T48_50537141.dita#Subpart_1215_4_T48_50537141">Subpart 1215.4—Contract Pricing</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -44,7 +44,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1215_6_T48_50537142.dita#Subpart_1215_6_T48_50537142">Subpart 1215.6 - Unsolicited Proposals</xref>
+                        href="Subpart_1215_6_T48_50537142.dita#Subpart_1215_6_T48_50537142">Subpart 1215.6—Unsolicited Proposals</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

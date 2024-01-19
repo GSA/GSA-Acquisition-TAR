@@ -10,15 +10,15 @@
 </p>
                                  <p xtrc="HD1">Media Transport (NOV 2022)
 </p>
-                                 <p outputclass="List1">(a) The Contractor shall document activities associated with the transport of DOT information stored on digital and non-digital media and employ cryptographic mechanisms to protect the confidentiality and integrity of this information during transport outside of controlled areas. This applies to - 
+                                 <p outputclass="List1">(a) The Contractor shall document activities associated with the transport of DOT information stored on digital and non-digital media and employ cryptographic mechanisms to protect the confidentiality and integrity of this information during transport outside of controlled areas. This applies to—
 </p>
-                                 <p outputclass="List2">(1) Digital media containing DOT or other Federal agency or other sensitive or third-party provided information that requires protection must be encrypted using FIPS 140-2 [<i>Contracting Officer insert required encryption mode, based on FIPS 199 risk category</i>] when transported outside of controlled areas; and
+                                 <p outputclass="List2">(1) Digital media containing DOT or other Federal agency or other sensitive or third-party provided information that requires protection must be encrypted using FIPS 140–2 [<i>Contracting Officer insert required encryption mode, based on FIPS 199 risk category</i>] when transported outside of controlled areas; and
 </p>
                                  <p outputclass="List2">(2) Nondigital media must be secured using the same policies and procedures as paper.
 </p>
                                  <p outputclass="List1">(b) Contractors shall ensure accountability for media containing DOT or other Federal agency or other sensitive or third-party provided information that is transported outside of controlled areas. This can be accomplished through appropriate actions such as logging and a documented chain of custody form.
 </p>
-                                 <p outputclass="List1">(c) DOT or other Federal agency sensitive or third-party provided information that resides on mobile/portable devices (<i>e.g.,</i> USB flash drives, external hard drives, and SD cards) must be encrypted using FIPS 140-2 [<i>Contracting Officer insert the required encryption mode based on FIPS 199 risk category</i>]. All Federal agency data residing on laptop computing devices must be protected with NIST-approved encryption software.</p>
+                                 <p outputclass="List1">(c) DOT or other Federal agency sensitive or third-party provided information that resides on mobile/portable devices (<i>e.g.,</i> USB flash drives, external hard drives, and SD cards) must be encrypted using FIPS 140–2 [<i>Contracting Officer insert the required encryption mode based on FIPS 199 risk category</i>]. All Federal agency data residing on laptop computing devices must be protected with NIST-approved encryption software.</p>
                               <p xtrc="HD3">(End of clause)
 
 

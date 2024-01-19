@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_1232_T48_5053924">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 1232</ph> - CONTRACT FINANCING</title>
+      <title class="- topic/title ">PART 1232—CONTRACT FINANCING
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1232_7_T48_50539241.dita#Subpart_1232_7_T48_50539241">Subpart 1232.7 - Contract Funding</xref>
+                        href="Subpart_1232_7_T48_50539241.dita#Subpart_1232_7_T48_50539241">Subpart 1232.7—Contract Funding</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -78,13 +78,13 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1232_9_T48_50539242.dita#Subpart_1232_9_T48_50539242">Subpart 1232.9 - Prompt Payment</xref>
+                        href="Subpart_1232_9_T48_50539242.dita#Subpart_1232_9_T48_50539242">Subpart 1232.9—Prompt Payment</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1232_905_70_T48_5053924211.dita#Section_1232_905_70_T48_5053924211">1232.905-70 Payment documentation and process - form of invoice.</xref>
+                              href="Section_1232_905_70_T48_5053924211.dita#Section_1232_905_70_T48_5053924211">1232.905-70 Payment documentation and process—form of invoice.</xref>
                      </p>
                   </li>
                </ul>
@@ -92,7 +92,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1232_70_T48_50539243.dita#Subpart_1232_70_T48_50539243">Subpart 1232.70 - Electronic Invoicing Requirements</xref>
+                        href="Subpart_1232_70_T48_50539243.dita#Subpart_1232_70_T48_50539243">Subpart 1232.70—Electronic Invoicing Requirements</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -110,7 +110,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_1232_7002_T48_5053924313.dita#Section_1232_7002_T48_5053924313">1232.7002 Electronic payment requests - invoices.</xref>
+                              href="Section_1232_7002_T48_5053924313.dita#Section_1232_7002_T48_5053924313">1232.7002 Electronic payment requests—invoices.</xref>
                      </p>
                   </li>
                   <li>
